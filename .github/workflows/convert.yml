@@ -23,8 +23,41 @@ jobs:
 
     - name: Convert Conf Files
       env:
-        CN_DNS: ${{ secrets.CN_DNS }}
-        THE_DNS: ${{ secrets.THE_DNS }}
+        CN_DNS: ${{
+#阿里DNS(Alidns)
+tls://dns.alidns.com
+https://dns.alidns.com/dns-query 
+quic://dns.alidns.com 
+h3://dns.alidns.com/dns-query
+#腾讯DNS(DNSPod)
+tls://dot.pub
+https://doh.pub/dns-query
+#360DNS
+tls://dot.360.cn
+https://doh.360.cn/dns-query
+}}
+        THE_DNS: ${{
+#Google DNS
+tls://dns.google
+https://dns.google/dns-query
+h3://dns.google/dns-query
+#OpenDNS
+tls://dns.opendns.com
+https://doh.opendns.com/dns-query
+#Quad9 DNS
+tls://dns11.quad9.net
+https://dns11.quad9.net/dns-query
+#AdGuard DNS
+tls://dns.adguard-dns.com
+https://dns.adguard-dns.com/dns-query
+quic://dns.adguard-dns.com
+h3://dns.adguard-dns.com/dns-query
+#NextDNS
+tls://Statego-9a6c54.dns.nextdns.io
+https://dns.nextdns.io/9a6c54/Statego
+quic://Statego-9a6c54.dns.nextdns.io
+h3://dns.nextdns.io/9a6c54/Statego
+}}
       run: python convert.py
 
     - name: Check for changes
