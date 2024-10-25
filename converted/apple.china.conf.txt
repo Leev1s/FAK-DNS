@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]https://223.6.6.6/dns-query https://120.53.53.53/dns-query
 [/dd-cdn.origin-apple.com.akadns.net/]https://223.6.6.6/dns-query https://120.53.53.53/dns-query
 [/dejavu.apple.com/]https://223.6.6.6/dns-query https://120.53.53.53/dns-query
+[/devimages-cdn.apple.com/]https://223.6.6.6/dns-query https://120.53.53.53/dns-query
 [/devstreaming-cdn.apple.com/]https://223.6.6.6/dns-query https://120.53.53.53/dns-query
 [/download.developer.apple.com/]https://223.6.6.6/dns-query https://120.53.53.53/dns-query
 [/experiments.apple.com/]https://223.6.6.6/dns-query https://120.53.53.53/dns-query
