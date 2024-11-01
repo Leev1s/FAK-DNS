@@ -1,190 +1,190 @@
-[/265.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/2mdn-cn.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/2mdn.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/admob-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/adservice.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ai.ytimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/app-measurement-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/app-measurement.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/apps5.oingo.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/avail.googleflights.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/beacons.gcp.gvt2.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/beacons.gvt2.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/beacons2.gvt2.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/beacons3.gvt2.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/borgmon.adz.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/c.admob.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/c.android.clients.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cache-management-prod.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cache.pack.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/checkin.gstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/clickserve.cc-dt.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/clickserve.dartsearch.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/clickserver.googleads.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/clientservices.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cn.widevine.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cnappinstall.googleadapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/connectivitycheck.gstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/content.googleadapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/crashlyticsreports-pa.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/crl.pki.goog/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/csi.gstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/dartsearch-cn.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/dg-meta.video.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/distribution.qatp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/distribution.qcpp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/distribution.qpdp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/dl.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/dl.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/doubleclick-cn.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/doubleclick.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/download.mlcc.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/download.qatp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/download.qcpp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/download.qpdp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/download.tensorflow.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/emmapplecodevice.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/firebase-settings.crashlytics.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/fontfiles.googleadapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/fontfiles.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/fonts.googleadapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/fonts.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/fonts.gstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/g0.gstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/g1.gstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/g2.gstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/g3.gstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gonglchuangl.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gongyichuangyi.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/google-analytics-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/google-analytics.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googleadservices-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googleadservices.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googleanalytics.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googleapis-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googleapps-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googleflights-cn.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googleoptimize-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googleoptimize.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googleplex.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googlesyndication-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googlesyndication.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googletagmanager-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googletagmanager.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googletagservices-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googletagservices.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googletraveladservices-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googletraveladservices.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/googlevads-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/goto.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gstatic-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gstaticadssl.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gtm.oasisfeng.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gvt1-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gvt2-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/imasdk.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/monitoring.qatp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/monitoring.qcpp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/monitoring.qpdp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ocsp.pki.goog/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/pagead-googlehosted.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/performanceparameters.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/pki-goog.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/play.1ucrs.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/prod-controlbe.floonet.goog/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/prod-databe.floonet.goog/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/prod.databe.floonet.goog/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qagpublic.qatp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qagpublic.qcpp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qagpublic.qpdp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qgadmin.qatp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qgadmin.qcpp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qgadmin.qpdp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qpx.googleflights.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qualysapi.qatp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qualysapi.qcpp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qualysapi.qpdp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qualysguard.qatp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qualysguard.qcpp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qualysguard.qpdp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/recaptcha.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/recaptcha-cn.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/redirector.bdn.dev/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/redirector.c.chat.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/redirector.c.mail.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/redirector.c.pack.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/redirector.c.play.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/redirector.c.youtubeeducation.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/redirector.gcpcdn.gvt1.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/redirector.gvt1.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/redirector.offline-maps.gvt1.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/redirector.snap.gvt1.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/redirector.xn--ngstr-lra8j.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/regioninfo-pa.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/safebrowsing.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/scanservice1.qatp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/scanservice1.qcpp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/scanservice1.qpdp1.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/service.urchin.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/settings.xn--9trs65b.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ssl-google-analytics.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ssl.gstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/staging-controlbe.floonet.goog/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/staging-databe.floonet.goog/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/staging-regioninfo-pa.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/staging.databe.floonet.goog/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/support.1ucrs.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/tac.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/test.bugs-qa.chromium.org/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/test.gbugs-qa.chromium.org/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/tools.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/tools.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/update.crashlytics.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/update.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/wear.googleapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/www-google-analytics.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/www-googletagmanager.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/www.destinationurl.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/www.googleadapis.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/www.gstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/www.pxcc.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/xn--9kr7l.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/xn--flw351e.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/applemdm.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/dns.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/g3doc.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gmskiosk-ssl.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/go.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gorom.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/goto.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/l2-uberproxy.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/logger.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/logger-dev.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/login.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/proxyconfig.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/rapture-autopush.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/rapture.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/rapture-prod.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/rapture-test.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/r.cert.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ssh-relay.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/sslredirect.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/streaming-uberproxy.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/streaming-uberproxy-rotation.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/sup.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/supportcenter.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/sup-ssh-relay2.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/sup-ssh-relay.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/techstop.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/uberproxy4.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/uberproxy6.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/uberproxy.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/uberproxy-debug4.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/uberproxy-debug.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/uberproxy-pen-redirect.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/vext.corp.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/sup.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/uberproxy-with-cn.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/uberproxy-with-cn4.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/uberproxy-with-cn6.l.google.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/qiao-cn.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/265.com/]tls://112.65.69.15 tls://1.12.12.12
+[/2mdn-cn.net/]tls://112.65.69.15 tls://1.12.12.12
+[/2mdn.net/]tls://112.65.69.15 tls://1.12.12.12
+[/admob-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/adservice.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/ai.ytimg.com/]tls://112.65.69.15 tls://1.12.12.12
+[/app-measurement-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/app-measurement.com/]tls://112.65.69.15 tls://1.12.12.12
+[/apps5.oingo.com/]tls://112.65.69.15 tls://1.12.12.12
+[/avail.googleflights.net/]tls://112.65.69.15 tls://1.12.12.12
+[/beacons.gcp.gvt2.com/]tls://112.65.69.15 tls://1.12.12.12
+[/beacons.gvt2.com/]tls://112.65.69.15 tls://1.12.12.12
+[/beacons2.gvt2.com/]tls://112.65.69.15 tls://1.12.12.12
+[/beacons3.gvt2.com/]tls://112.65.69.15 tls://1.12.12.12
+[/borgmon.adz.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/c.admob.com/]tls://112.65.69.15 tls://1.12.12.12
+[/c.android.clients.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/cache-management-prod.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/cache.pack.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/checkin.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
+[/clickserve.cc-dt.com/]tls://112.65.69.15 tls://1.12.12.12
+[/clickserve.dartsearch.net/]tls://112.65.69.15 tls://1.12.12.12
+[/clickserver.googleads.com/]tls://112.65.69.15 tls://1.12.12.12
+[/clientservices.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/cn.widevine.com/]tls://112.65.69.15 tls://1.12.12.12
+[/cnappinstall.googleadapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/connectivitycheck.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
+[/content.googleadapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/crashlyticsreports-pa.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/crl.pki.goog/]tls://112.65.69.15 tls://1.12.12.12
+[/csi.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
+[/dartsearch-cn.net/]tls://112.65.69.15 tls://1.12.12.12
+[/dg-meta.video.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/distribution.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/distribution.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/distribution.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/dl.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/dl.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/doubleclick-cn.net/]tls://112.65.69.15 tls://1.12.12.12
+[/doubleclick.net/]tls://112.65.69.15 tls://1.12.12.12
+[/download.mlcc.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/download.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/download.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/download.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/download.tensorflow.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/emmapplecodevice.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/firebase-settings.crashlytics.com/]tls://112.65.69.15 tls://1.12.12.12
+[/fontfiles.googleadapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/fontfiles.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/fonts.googleadapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/fonts.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/fonts.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
+[/g0.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
+[/g1.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
+[/g2.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
+[/g3.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
+[/gonglchuangl.net/]tls://112.65.69.15 tls://1.12.12.12
+[/gongyichuangyi.net/]tls://112.65.69.15 tls://1.12.12.12
+[/google-analytics-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/google-analytics.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googleadservices-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googleadservices.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googleanalytics.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googleapis-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googleapps-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googleflights-cn.net/]tls://112.65.69.15 tls://1.12.12.12
+[/googleoptimize-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googleoptimize.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googleplex.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googlesyndication-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googlesyndication.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googletagmanager-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googletagmanager.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googletagservices-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googletagservices.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googletraveladservices-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googletraveladservices.com/]tls://112.65.69.15 tls://1.12.12.12
+[/googlevads-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/goto.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/gstatic-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/gstaticadssl.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/gtm.oasisfeng.com/]tls://112.65.69.15 tls://1.12.12.12
+[/gvt1-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/gvt2-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/imasdk.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/monitoring.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/monitoring.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/monitoring.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/ocsp.pki.goog/]tls://112.65.69.15 tls://1.12.12.12
+[/pagead-googlehosted.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/performanceparameters.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/pki-goog.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/play.1ucrs.com/]tls://112.65.69.15 tls://1.12.12.12
+[/prod-controlbe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
+[/prod-databe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
+[/prod.databe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
+[/qagpublic.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qagpublic.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qagpublic.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qgadmin.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qgadmin.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qgadmin.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qpx.googleflights.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qualysapi.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qualysapi.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qualysapi.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qualysguard.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qualysguard.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/qualysguard.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/recaptcha.net/]tls://112.65.69.15 tls://1.12.12.12
+[/recaptcha-cn.net/]tls://112.65.69.15 tls://1.12.12.12
+[/redirector.bdn.dev/]tls://112.65.69.15 tls://1.12.12.12
+[/redirector.c.chat.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/redirector.c.mail.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/redirector.c.pack.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/redirector.c.play.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/redirector.c.youtubeeducation.com/]tls://112.65.69.15 tls://1.12.12.12
+[/redirector.gcpcdn.gvt1.com/]tls://112.65.69.15 tls://1.12.12.12
+[/redirector.gvt1.com/]tls://112.65.69.15 tls://1.12.12.12
+[/redirector.offline-maps.gvt1.com/]tls://112.65.69.15 tls://1.12.12.12
+[/redirector.snap.gvt1.com/]tls://112.65.69.15 tls://1.12.12.12
+[/redirector.xn--ngstr-lra8j.com/]tls://112.65.69.15 tls://1.12.12.12
+[/regioninfo-pa.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/safebrowsing.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/scanservice1.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/scanservice1.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/scanservice1.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
+[/service.urchin.com/]tls://112.65.69.15 tls://1.12.12.12
+[/settings.xn--9trs65b.com/]tls://112.65.69.15 tls://1.12.12.12
+[/ssl-google-analytics.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/ssl.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
+[/staging-controlbe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
+[/staging-databe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
+[/staging-regioninfo-pa.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/staging.databe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
+[/support.1ucrs.com/]tls://112.65.69.15 tls://1.12.12.12
+[/tac.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/test.bugs-qa.chromium.org/]tls://112.65.69.15 tls://1.12.12.12
+[/test.gbugs-qa.chromium.org/]tls://112.65.69.15 tls://1.12.12.12
+[/tools.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/tools.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/update.crashlytics.com/]tls://112.65.69.15 tls://1.12.12.12
+[/update.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/wear.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/www-google-analytics.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/www-googletagmanager.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/www.destinationurl.com/]tls://112.65.69.15 tls://1.12.12.12
+[/www.googleadapis.com/]tls://112.65.69.15 tls://1.12.12.12
+[/www.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
+[/www.pxcc.com/]tls://112.65.69.15 tls://1.12.12.12
+[/xn--9kr7l.com/]tls://112.65.69.15 tls://1.12.12.12
+[/xn--flw351e.com/]tls://112.65.69.15 tls://1.12.12.12
+[/applemdm.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/dns.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/g3doc.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/gmskiosk-ssl.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/go.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/gorom.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/goto.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/l2-uberproxy.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/logger.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/logger-dev.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/login.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/proxyconfig.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/rapture-autopush.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/rapture.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/rapture-prod.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/rapture-test.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/r.cert.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/ssh-relay.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/sslredirect.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/streaming-uberproxy.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/streaming-uberproxy-rotation.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/sup.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/supportcenter.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/sup-ssh-relay2.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/sup-ssh-relay.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/techstop.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/uberproxy4.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/uberproxy6.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/uberproxy.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/uberproxy-debug4.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/uberproxy-debug.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/uberproxy-pen-redirect.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/vext.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/sup.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/uberproxy-with-cn.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/uberproxy-with-cn4.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/uberproxy-with-cn6.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
+[/qiao-cn.com/]tls://112.65.69.15 tls://1.12.12.12
