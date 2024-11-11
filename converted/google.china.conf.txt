@@ -1,190 +1,190 @@
-[/265.com/]tls://112.65.69.15 tls://1.12.12.12
-[/2mdn-cn.net/]tls://112.65.69.15 tls://1.12.12.12
-[/2mdn.net/]tls://112.65.69.15 tls://1.12.12.12
-[/admob-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/adservice.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/ai.ytimg.com/]tls://112.65.69.15 tls://1.12.12.12
-[/app-measurement-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/app-measurement.com/]tls://112.65.69.15 tls://1.12.12.12
-[/apps5.oingo.com/]tls://112.65.69.15 tls://1.12.12.12
-[/avail.googleflights.net/]tls://112.65.69.15 tls://1.12.12.12
-[/beacons.gcp.gvt2.com/]tls://112.65.69.15 tls://1.12.12.12
-[/beacons.gvt2.com/]tls://112.65.69.15 tls://1.12.12.12
-[/beacons2.gvt2.com/]tls://112.65.69.15 tls://1.12.12.12
-[/beacons3.gvt2.com/]tls://112.65.69.15 tls://1.12.12.12
-[/borgmon.adz.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/c.admob.com/]tls://112.65.69.15 tls://1.12.12.12
-[/c.android.clients.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cache-management-prod.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cache.pack.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/checkin.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/clickserve.cc-dt.com/]tls://112.65.69.15 tls://1.12.12.12
-[/clickserve.dartsearch.net/]tls://112.65.69.15 tls://1.12.12.12
-[/clickserver.googleads.com/]tls://112.65.69.15 tls://1.12.12.12
-[/clientservices.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cn.widevine.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cnappinstall.googleadapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/connectivitycheck.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/content.googleadapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/crashlyticsreports-pa.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/crl.pki.goog/]tls://112.65.69.15 tls://1.12.12.12
-[/csi.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/dartsearch-cn.net/]tls://112.65.69.15 tls://1.12.12.12
-[/dg-meta.video.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/distribution.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/distribution.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/distribution.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/dl.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/dl.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/doubleclick-cn.net/]tls://112.65.69.15 tls://1.12.12.12
-[/doubleclick.net/]tls://112.65.69.15 tls://1.12.12.12
-[/download.mlcc.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/download.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/download.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/download.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/download.tensorflow.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/emmapplecodevice.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/firebase-settings.crashlytics.com/]tls://112.65.69.15 tls://1.12.12.12
-[/fontfiles.googleadapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/fontfiles.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/fonts.googleadapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/fonts.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/fonts.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/g0.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/g1.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/g2.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/g3.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gonglchuangl.net/]tls://112.65.69.15 tls://1.12.12.12
-[/gongyichuangyi.net/]tls://112.65.69.15 tls://1.12.12.12
-[/google-analytics-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/google-analytics.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googleadservices-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googleadservices.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googleanalytics.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googleapis-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googleapps-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googleflights-cn.net/]tls://112.65.69.15 tls://1.12.12.12
-[/googleoptimize-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googleoptimize.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googleplex.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googlesyndication-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googlesyndication.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googletagmanager-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googletagmanager.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googletagservices-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googletagservices.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googletraveladservices-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googletraveladservices.com/]tls://112.65.69.15 tls://1.12.12.12
-[/googlevads-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/goto.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gstatic-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gstaticadssl.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gtm.oasisfeng.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gvt1-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gvt2-cn.com/]tls://112.65.69.15 tls://1.12.12.12
-[/imasdk.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/monitoring.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/monitoring.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/monitoring.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/ocsp.pki.goog/]tls://112.65.69.15 tls://1.12.12.12
-[/pagead-googlehosted.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/performanceparameters.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/pki-goog.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/play.1ucrs.com/]tls://112.65.69.15 tls://1.12.12.12
-[/prod-controlbe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
-[/prod-databe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
-[/prod.databe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
-[/qagpublic.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qagpublic.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qagpublic.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qgadmin.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qgadmin.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qgadmin.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qpx.googleflights.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qualysapi.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qualysapi.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qualysapi.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qualysguard.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qualysguard.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/qualysguard.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/recaptcha.net/]tls://112.65.69.15 tls://1.12.12.12
-[/recaptcha-cn.net/]tls://112.65.69.15 tls://1.12.12.12
-[/redirector.bdn.dev/]tls://112.65.69.15 tls://1.12.12.12
-[/redirector.c.chat.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/redirector.c.mail.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/redirector.c.pack.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/redirector.c.play.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/redirector.c.youtubeeducation.com/]tls://112.65.69.15 tls://1.12.12.12
-[/redirector.gcpcdn.gvt1.com/]tls://112.65.69.15 tls://1.12.12.12
-[/redirector.gvt1.com/]tls://112.65.69.15 tls://1.12.12.12
-[/redirector.offline-maps.gvt1.com/]tls://112.65.69.15 tls://1.12.12.12
-[/redirector.snap.gvt1.com/]tls://112.65.69.15 tls://1.12.12.12
-[/redirector.xn--ngstr-lra8j.com/]tls://112.65.69.15 tls://1.12.12.12
-[/regioninfo-pa.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/safebrowsing.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/scanservice1.qatp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/scanservice1.qcpp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/scanservice1.qpdp1.net/]tls://112.65.69.15 tls://1.12.12.12
-[/service.urchin.com/]tls://112.65.69.15 tls://1.12.12.12
-[/settings.xn--9trs65b.com/]tls://112.65.69.15 tls://1.12.12.12
-[/ssl-google-analytics.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/ssl.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/staging-controlbe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
-[/staging-databe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
-[/staging-regioninfo-pa.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/staging.databe.floonet.goog/]tls://112.65.69.15 tls://1.12.12.12
-[/support.1ucrs.com/]tls://112.65.69.15 tls://1.12.12.12
-[/tac.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/test.bugs-qa.chromium.org/]tls://112.65.69.15 tls://1.12.12.12
-[/test.gbugs-qa.chromium.org/]tls://112.65.69.15 tls://1.12.12.12
-[/tools.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/tools.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/update.crashlytics.com/]tls://112.65.69.15 tls://1.12.12.12
-[/update.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/wear.googleapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/www-google-analytics.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/www-googletagmanager.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/www.destinationurl.com/]tls://112.65.69.15 tls://1.12.12.12
-[/www.googleadapis.com/]tls://112.65.69.15 tls://1.12.12.12
-[/www.gstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/www.pxcc.com/]tls://112.65.69.15 tls://1.12.12.12
-[/xn--9kr7l.com/]tls://112.65.69.15 tls://1.12.12.12
-[/xn--flw351e.com/]tls://112.65.69.15 tls://1.12.12.12
-[/applemdm.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/dns.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/g3doc.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gmskiosk-ssl.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/go.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gorom.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/goto.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/l2-uberproxy.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/logger.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/logger-dev.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/login.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/proxyconfig.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/rapture-autopush.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/rapture.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/rapture-prod.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/rapture-test.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/r.cert.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/ssh-relay.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/sslredirect.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/streaming-uberproxy.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/streaming-uberproxy-rotation.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/sup.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/supportcenter.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/sup-ssh-relay2.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/sup-ssh-relay.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/techstop.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/uberproxy4.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/uberproxy6.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/uberproxy.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/uberproxy-debug4.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/uberproxy-debug.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/uberproxy-pen-redirect.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/vext.corp.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/sup.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/uberproxy-with-cn.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/uberproxy-with-cn4.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/uberproxy-with-cn6.l.google.com/]tls://112.65.69.15 tls://1.12.12.12
-[/qiao-cn.com/]tls://112.65.69.15 tls://1.12.12.12
+[/265.com/]tls://112.65.69.15
+[/2mdn-cn.net/]tls://112.65.69.15
+[/2mdn.net/]tls://112.65.69.15
+[/admob-cn.com/]tls://112.65.69.15
+[/adservice.google.com/]tls://112.65.69.15
+[/ai.ytimg.com/]tls://112.65.69.15
+[/app-measurement-cn.com/]tls://112.65.69.15
+[/app-measurement.com/]tls://112.65.69.15
+[/apps5.oingo.com/]tls://112.65.69.15
+[/avail.googleflights.net/]tls://112.65.69.15
+[/beacons.gcp.gvt2.com/]tls://112.65.69.15
+[/beacons.gvt2.com/]tls://112.65.69.15
+[/beacons2.gvt2.com/]tls://112.65.69.15
+[/beacons3.gvt2.com/]tls://112.65.69.15
+[/borgmon.adz.google.com/]tls://112.65.69.15
+[/c.admob.com/]tls://112.65.69.15
+[/c.android.clients.google.com/]tls://112.65.69.15
+[/cache-management-prod.google.com/]tls://112.65.69.15
+[/cache.pack.google.com/]tls://112.65.69.15
+[/checkin.gstatic.com/]tls://112.65.69.15
+[/clickserve.cc-dt.com/]tls://112.65.69.15
+[/clickserve.dartsearch.net/]tls://112.65.69.15
+[/clickserver.googleads.com/]tls://112.65.69.15
+[/clientservices.googleapis.com/]tls://112.65.69.15
+[/cn.widevine.com/]tls://112.65.69.15
+[/cnappinstall.googleadapis.com/]tls://112.65.69.15
+[/connectivitycheck.gstatic.com/]tls://112.65.69.15
+[/content.googleadapis.com/]tls://112.65.69.15
+[/crashlyticsreports-pa.googleapis.com/]tls://112.65.69.15
+[/crl.pki.goog/]tls://112.65.69.15
+[/csi.gstatic.com/]tls://112.65.69.15
+[/dartsearch-cn.net/]tls://112.65.69.15
+[/dg-meta.video.google.com/]tls://112.65.69.15
+[/distribution.qatp1.net/]tls://112.65.69.15
+[/distribution.qcpp1.net/]tls://112.65.69.15
+[/distribution.qpdp1.net/]tls://112.65.69.15
+[/dl.google.com/]tls://112.65.69.15
+[/dl.l.google.com/]tls://112.65.69.15
+[/doubleclick-cn.net/]tls://112.65.69.15
+[/doubleclick.net/]tls://112.65.69.15
+[/download.mlcc.google.com/]tls://112.65.69.15
+[/download.qatp1.net/]tls://112.65.69.15
+[/download.qcpp1.net/]tls://112.65.69.15
+[/download.qpdp1.net/]tls://112.65.69.15
+[/download.tensorflow.google.com/]tls://112.65.69.15
+[/emmapplecodevice.googleapis.com/]tls://112.65.69.15
+[/firebase-settings.crashlytics.com/]tls://112.65.69.15
+[/fontfiles.googleadapis.com/]tls://112.65.69.15
+[/fontfiles.googleapis.com/]tls://112.65.69.15
+[/fonts.googleadapis.com/]tls://112.65.69.15
+[/fonts.googleapis.com/]tls://112.65.69.15
+[/fonts.gstatic.com/]tls://112.65.69.15
+[/g0.gstatic.com/]tls://112.65.69.15
+[/g1.gstatic.com/]tls://112.65.69.15
+[/g2.gstatic.com/]tls://112.65.69.15
+[/g3.gstatic.com/]tls://112.65.69.15
+[/gonglchuangl.net/]tls://112.65.69.15
+[/gongyichuangyi.net/]tls://112.65.69.15
+[/google-analytics-cn.com/]tls://112.65.69.15
+[/google-analytics.com/]tls://112.65.69.15
+[/googleadservices-cn.com/]tls://112.65.69.15
+[/googleadservices.com/]tls://112.65.69.15
+[/googleanalytics.com/]tls://112.65.69.15
+[/googleapis-cn.com/]tls://112.65.69.15
+[/googleapps-cn.com/]tls://112.65.69.15
+[/googleflights-cn.net/]tls://112.65.69.15
+[/googleoptimize-cn.com/]tls://112.65.69.15
+[/googleoptimize.com/]tls://112.65.69.15
+[/googleplex.com/]tls://112.65.69.15
+[/googlesyndication-cn.com/]tls://112.65.69.15
+[/googlesyndication.com/]tls://112.65.69.15
+[/googletagmanager-cn.com/]tls://112.65.69.15
+[/googletagmanager.com/]tls://112.65.69.15
+[/googletagservices-cn.com/]tls://112.65.69.15
+[/googletagservices.com/]tls://112.65.69.15
+[/googletraveladservices-cn.com/]tls://112.65.69.15
+[/googletraveladservices.com/]tls://112.65.69.15
+[/googlevads-cn.com/]tls://112.65.69.15
+[/goto.google.com/]tls://112.65.69.15
+[/gstatic-cn.com/]tls://112.65.69.15
+[/gstaticadssl.l.google.com/]tls://112.65.69.15
+[/gtm.oasisfeng.com/]tls://112.65.69.15
+[/gvt1-cn.com/]tls://112.65.69.15
+[/gvt2-cn.com/]tls://112.65.69.15
+[/imasdk.googleapis.com/]tls://112.65.69.15
+[/monitoring.qatp1.net/]tls://112.65.69.15
+[/monitoring.qcpp1.net/]tls://112.65.69.15
+[/monitoring.qpdp1.net/]tls://112.65.69.15
+[/ocsp.pki.goog/]tls://112.65.69.15
+[/pagead-googlehosted.l.google.com/]tls://112.65.69.15
+[/performanceparameters.googleapis.com/]tls://112.65.69.15
+[/pki-goog.l.google.com/]tls://112.65.69.15
+[/play.1ucrs.com/]tls://112.65.69.15
+[/prod-controlbe.floonet.goog/]tls://112.65.69.15
+[/prod-databe.floonet.goog/]tls://112.65.69.15
+[/prod.databe.floonet.goog/]tls://112.65.69.15
+[/qagpublic.qatp1.net/]tls://112.65.69.15
+[/qagpublic.qcpp1.net/]tls://112.65.69.15
+[/qagpublic.qpdp1.net/]tls://112.65.69.15
+[/qgadmin.qatp1.net/]tls://112.65.69.15
+[/qgadmin.qcpp1.net/]tls://112.65.69.15
+[/qgadmin.qpdp1.net/]tls://112.65.69.15
+[/qpx.googleflights.net/]tls://112.65.69.15
+[/qualysapi.qatp1.net/]tls://112.65.69.15
+[/qualysapi.qcpp1.net/]tls://112.65.69.15
+[/qualysapi.qpdp1.net/]tls://112.65.69.15
+[/qualysguard.qatp1.net/]tls://112.65.69.15
+[/qualysguard.qcpp1.net/]tls://112.65.69.15
+[/qualysguard.qpdp1.net/]tls://112.65.69.15
+[/recaptcha.net/]tls://112.65.69.15
+[/recaptcha-cn.net/]tls://112.65.69.15
+[/redirector.bdn.dev/]tls://112.65.69.15
+[/redirector.c.chat.google.com/]tls://112.65.69.15
+[/redirector.c.mail.google.com/]tls://112.65.69.15
+[/redirector.c.pack.google.com/]tls://112.65.69.15
+[/redirector.c.play.google.com/]tls://112.65.69.15
+[/redirector.c.youtubeeducation.com/]tls://112.65.69.15
+[/redirector.gcpcdn.gvt1.com/]tls://112.65.69.15
+[/redirector.gvt1.com/]tls://112.65.69.15
+[/redirector.offline-maps.gvt1.com/]tls://112.65.69.15
+[/redirector.snap.gvt1.com/]tls://112.65.69.15
+[/redirector.xn--ngstr-lra8j.com/]tls://112.65.69.15
+[/regioninfo-pa.googleapis.com/]tls://112.65.69.15
+[/safebrowsing.googleapis.com/]tls://112.65.69.15
+[/scanservice1.qatp1.net/]tls://112.65.69.15
+[/scanservice1.qcpp1.net/]tls://112.65.69.15
+[/scanservice1.qpdp1.net/]tls://112.65.69.15
+[/service.urchin.com/]tls://112.65.69.15
+[/settings.xn--9trs65b.com/]tls://112.65.69.15
+[/ssl-google-analytics.l.google.com/]tls://112.65.69.15
+[/ssl.gstatic.com/]tls://112.65.69.15
+[/staging-controlbe.floonet.goog/]tls://112.65.69.15
+[/staging-databe.floonet.goog/]tls://112.65.69.15
+[/staging-regioninfo-pa.googleapis.com/]tls://112.65.69.15
+[/staging.databe.floonet.goog/]tls://112.65.69.15
+[/support.1ucrs.com/]tls://112.65.69.15
+[/tac.googleapis.com/]tls://112.65.69.15
+[/test.bugs-qa.chromium.org/]tls://112.65.69.15
+[/test.gbugs-qa.chromium.org/]tls://112.65.69.15
+[/tools.google.com/]tls://112.65.69.15
+[/tools.l.google.com/]tls://112.65.69.15
+[/update.crashlytics.com/]tls://112.65.69.15
+[/update.googleapis.com/]tls://112.65.69.15
+[/wear.googleapis.com/]tls://112.65.69.15
+[/www-google-analytics.l.google.com/]tls://112.65.69.15
+[/www-googletagmanager.l.google.com/]tls://112.65.69.15
+[/www.destinationurl.com/]tls://112.65.69.15
+[/www.googleadapis.com/]tls://112.65.69.15
+[/www.gstatic.com/]tls://112.65.69.15
+[/www.pxcc.com/]tls://112.65.69.15
+[/xn--9kr7l.com/]tls://112.65.69.15
+[/xn--flw351e.com/]tls://112.65.69.15
+[/applemdm.corp.google.com/]tls://112.65.69.15
+[/dns.corp.google.com/]tls://112.65.69.15
+[/g3doc.corp.google.com/]tls://112.65.69.15
+[/gmskiosk-ssl.corp.google.com/]tls://112.65.69.15
+[/go.corp.google.com/]tls://112.65.69.15
+[/gorom.corp.google.com/]tls://112.65.69.15
+[/goto.corp.google.com/]tls://112.65.69.15
+[/l2-uberproxy.corp.google.com/]tls://112.65.69.15
+[/logger.corp.google.com/]tls://112.65.69.15
+[/logger-dev.corp.google.com/]tls://112.65.69.15
+[/login.corp.google.com/]tls://112.65.69.15
+[/proxyconfig.corp.google.com/]tls://112.65.69.15
+[/rapture-autopush.corp.google.com/]tls://112.65.69.15
+[/rapture.corp.google.com/]tls://112.65.69.15
+[/rapture-prod.corp.google.com/]tls://112.65.69.15
+[/rapture-test.corp.google.com/]tls://112.65.69.15
+[/r.cert.corp.google.com/]tls://112.65.69.15
+[/ssh-relay.corp.google.com/]tls://112.65.69.15
+[/sslredirect.corp.google.com/]tls://112.65.69.15
+[/streaming-uberproxy.corp.google.com/]tls://112.65.69.15
+[/streaming-uberproxy-rotation.corp.google.com/]tls://112.65.69.15
+[/sup.corp.google.com/]tls://112.65.69.15
+[/supportcenter.corp.google.com/]tls://112.65.69.15
+[/sup-ssh-relay2.corp.google.com/]tls://112.65.69.15
+[/sup-ssh-relay.corp.google.com/]tls://112.65.69.15
+[/techstop.corp.google.com/]tls://112.65.69.15
+[/uberproxy4.corp.google.com/]tls://112.65.69.15
+[/uberproxy6.corp.google.com/]tls://112.65.69.15
+[/uberproxy.corp.google.com/]tls://112.65.69.15
+[/uberproxy-debug4.corp.google.com/]tls://112.65.69.15
+[/uberproxy-debug.corp.google.com/]tls://112.65.69.15
+[/uberproxy-pen-redirect.corp.google.com/]tls://112.65.69.15
+[/vext.corp.google.com/]tls://112.65.69.15
+[/sup.l.google.com/]tls://112.65.69.15
+[/uberproxy-with-cn.l.google.com/]tls://112.65.69.15
+[/uberproxy-with-cn4.l.google.com/]tls://112.65.69.15
+[/uberproxy-with-cn6.l.google.com/]tls://112.65.69.15
+[/qiao-cn.com/]tls://112.65.69.15

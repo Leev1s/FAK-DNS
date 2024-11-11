@@ -1,174 +1,174 @@
-[/a1.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/a2.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/a3.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/a4.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/a5.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/adcdownload.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/adcdownload.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/amp-api-updates.apps.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/amp-api.media.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/api-p-ap-c.smoot.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/api-p-ap-d.smoot.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/api-p-ap-e.smoot.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/app-site-association.cdn-apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/appldnld.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/appldnld.g.aaplimg.com/]tls://112.65.69.15 tls://1.12.12.12
-[/appleid.cdn-apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/apps.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/apps.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/bag-cdn.itunes-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/cdn-cn1.apple-mapkit.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cdn-cn2.apple-mapkit.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cdn-cn3.apple-mapkit.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cdn-cn4.apple-mapkit.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cdn.apple-mapkit.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cdn1.apple-mapkit.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cdn2.apple-mapkit.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cdn3.apple-mapkit.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cdn4.apple-mapkit.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cds-cdn.v.aaplimg.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cds.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/cds.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cdsassets.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cl1-cdn.origin-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/cl1.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cl2-cn.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cl2.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cl3-cdn.origin-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/cl3.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cl4-cdn.origin-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/cl4-cn.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cl4.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cl5-cdn.origin-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/cl5.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/clientflow.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/clientflow.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cn-smp-paymentservices.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/configuration.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/configuration.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/crl.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cstat.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/cstat.cdn-apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/dd-cdn.origin-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/dejavu.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/devimages-cdn.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/devstreaming-cdn.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/download.developer.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/experiments.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gs-loc-cn.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gs-loc.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gsp10-ssl-cn.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gsp12-cn.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gsp13-cn.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/gsp4-cn.ls.apple.com.edgekey.net/]tls://112.65.69.15 tls://1.12.12.12
-[/gsp4-cn.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gsp5-cn.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gsp85-cn-ssl.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/gspe19-2-cn-ssl.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gspe19-cn-ssl.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gspe19-cn.ls-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/gspe19-cn.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gspe21-ssl.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gspe21.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gspe35-ssl.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/gspe79-cn-ssl.ls.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/guzzoni-apple-com.v.aaplimg.com/]tls://112.65.69.15 tls://1.12.12.12
-[/guzzoni.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/guzzoni.smoot.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/iadsdk.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/icloud-cdn.icloud.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/icloud.cdn-apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/images.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/images.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/init-kt.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/init-p01md-lb.push-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/init-p01md.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/init-p01st-lb.push-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/init-p01st.push.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/init-s01st-lb.push-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/init-s01st.push.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/init.ess.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/iosapps.itunes.g.aaplimg.com/]tls://112.65.69.15 tls://1.12.12.12
-[/ipcdn.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/iphone-ld.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/iphone-ld.origin-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/is1-ssl.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/is1.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/is2-ssl.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/is2.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/is3-ssl.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/is3.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/is4-ssl.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/is4.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/is5-ssl.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/is5.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/itunes-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/itunes.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/itunesconnect.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/mesu-cdn.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/mesu-china.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/mesu.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/ml.cdn-apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/music.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/ocsp-lb.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/ocsp.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/ocsp2-lb.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/ocsp2.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/oscdn.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/oscdn.origin-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/osxapps.itunes.g.aaplimg.com/]tls://112.65.69.15 tls://1.12.12.12
-[/pancake.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/pancake.cdn-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/pba0.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/probe.siri.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/prod-support.apple-support.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/publicassets.cdn-apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/reserve-prime.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/s.mzstatic.com/]tls://112.65.69.15 tls://1.12.12.12
-[/seed-sequoia.siri.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/seed-swallow.siri.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/seed.siri.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/sequoia.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/sh-pod2-smp-device.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/shazam-insights.cdn-apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/smp-device-content.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/static.gc.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/stocks-sparkline-lb.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/stocks-sparkline.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/store.apple.com.edgekey.net/]tls://112.65.69.15 tls://1.12.12.12
-[/store.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/store.storeimages.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/store.storeimages.cdn-apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/support-china.apple-support.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/support.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/swallow-apple-com.v.aaplimg.com/]tls://112.65.69.15 tls://1.12.12.12
-[/swallow.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/swcatalog-cdn.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/swcatalog.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/swcdn.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/swcdn.g.aaplimg.com/]tls://112.65.69.15 tls://1.12.12.12
-[/swdist.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/swdist.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/swscan-cdn.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/swscan.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/sylvan.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/tj-pod1-smp-device.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/updates-http.cdn-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/updates-http.cdn-apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/updates.cdn-apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/valid.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/valid.origin-apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/weather-data.apple.com.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/weather-data.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/weather-map.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/weather-map2.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/weatherkit.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]tls://112.65.69.15 tls://1.12.12.12
-[/www.apple.com.edgekey.net/]tls://112.65.69.15 tls://1.12.12.12
-[/www.apple.com/]tls://112.65.69.15 tls://1.12.12.12
-[/xp.apple.com/]tls://112.65.69.15 tls://1.12.12.12
+[/a1.mzstatic.com/]tls://112.65.69.15
+[/a2.mzstatic.com/]tls://112.65.69.15
+[/a3.mzstatic.com/]tls://112.65.69.15
+[/a4.mzstatic.com/]tls://112.65.69.15
+[/a5.mzstatic.com/]tls://112.65.69.15
+[/adcdownload.apple.com.akadns.net/]tls://112.65.69.15
+[/adcdownload.apple.com/]tls://112.65.69.15
+[/amp-api-updates.apps.apple.com/]tls://112.65.69.15
+[/amp-api.media.apple.com/]tls://112.65.69.15
+[/api-p-ap-c.smoot.apple.com/]tls://112.65.69.15
+[/api-p-ap-d.smoot.apple.com/]tls://112.65.69.15
+[/api-p-ap-e.smoot.apple.com/]tls://112.65.69.15
+[/app-site-association.cdn-apple.com/]tls://112.65.69.15
+[/appldnld.apple.com/]tls://112.65.69.15
+[/appldnld.g.aaplimg.com/]tls://112.65.69.15
+[/appleid.cdn-apple.com/]tls://112.65.69.15
+[/apps.apple.com/]tls://112.65.69.15
+[/apps.mzstatic.com/]tls://112.65.69.15
+[/bag-cdn.itunes-apple.com.akadns.net/]tls://112.65.69.15
+[/cdn-cn1.apple-mapkit.com/]tls://112.65.69.15
+[/cdn-cn2.apple-mapkit.com/]tls://112.65.69.15
+[/cdn-cn3.apple-mapkit.com/]tls://112.65.69.15
+[/cdn-cn4.apple-mapkit.com/]tls://112.65.69.15
+[/cdn.apple-mapkit.com/]tls://112.65.69.15
+[/cdn1.apple-mapkit.com/]tls://112.65.69.15
+[/cdn2.apple-mapkit.com/]tls://112.65.69.15
+[/cdn3.apple-mapkit.com/]tls://112.65.69.15
+[/cdn4.apple-mapkit.com/]tls://112.65.69.15
+[/cds-cdn.v.aaplimg.com/]tls://112.65.69.15
+[/cds.apple.com.akadns.net/]tls://112.65.69.15
+[/cds.apple.com/]tls://112.65.69.15
+[/cdsassets.apple.com/]tls://112.65.69.15
+[/cl1-cdn.origin-apple.com.akadns.net/]tls://112.65.69.15
+[/cl1.apple.com/]tls://112.65.69.15
+[/cl2-cn.apple.com/]tls://112.65.69.15
+[/cl2.apple.com/]tls://112.65.69.15
+[/cl3-cdn.origin-apple.com.akadns.net/]tls://112.65.69.15
+[/cl3.apple.com/]tls://112.65.69.15
+[/cl4-cdn.origin-apple.com.akadns.net/]tls://112.65.69.15
+[/cl4-cn.apple.com/]tls://112.65.69.15
+[/cl4.apple.com/]tls://112.65.69.15
+[/cl5-cdn.origin-apple.com.akadns.net/]tls://112.65.69.15
+[/cl5.apple.com/]tls://112.65.69.15
+[/clientflow.apple.com.akadns.net/]tls://112.65.69.15
+[/clientflow.apple.com/]tls://112.65.69.15
+[/cn-smp-paymentservices.apple.com/]tls://112.65.69.15
+[/configuration.apple.com.akadns.net/]tls://112.65.69.15
+[/configuration.apple.com/]tls://112.65.69.15
+[/crl.apple.com/]tls://112.65.69.15
+[/cstat.apple.com/]tls://112.65.69.15
+[/cstat.cdn-apple.com/]tls://112.65.69.15
+[/dd-cdn.origin-apple.com.akadns.net/]tls://112.65.69.15
+[/dejavu.apple.com/]tls://112.65.69.15
+[/devimages-cdn.apple.com/]tls://112.65.69.15
+[/devstreaming-cdn.apple.com/]tls://112.65.69.15
+[/download.developer.apple.com/]tls://112.65.69.15
+[/experiments.apple.com/]tls://112.65.69.15
+[/gs-loc-cn.apple.com/]tls://112.65.69.15
+[/gs-loc.apple.com/]tls://112.65.69.15
+[/gsp10-ssl-cn.ls.apple.com/]tls://112.65.69.15
+[/gsp12-cn.ls.apple.com/]tls://112.65.69.15
+[/gsp13-cn.ls.apple.com/]tls://112.65.69.15
+[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tls://112.65.69.15
+[/gsp4-cn.ls.apple.com.edgekey.net/]tls://112.65.69.15
+[/gsp4-cn.ls.apple.com/]tls://112.65.69.15
+[/gsp5-cn.ls.apple.com/]tls://112.65.69.15
+[/gsp85-cn-ssl.ls.apple.com/]tls://112.65.69.15
+[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]tls://112.65.69.15
+[/gspe19-2-cn-ssl.ls.apple.com/]tls://112.65.69.15
+[/gspe19-cn-ssl.ls.apple.com/]tls://112.65.69.15
+[/gspe19-cn.ls-apple.com.akadns.net/]tls://112.65.69.15
+[/gspe19-cn.ls.apple.com/]tls://112.65.69.15
+[/gspe21-ssl.ls.apple.com/]tls://112.65.69.15
+[/gspe21.ls.apple.com/]tls://112.65.69.15
+[/gspe35-ssl.ls.apple.com/]tls://112.65.69.15
+[/gspe79-cn-ssl.ls.apple.com/]tls://112.65.69.15
+[/guzzoni-apple-com.v.aaplimg.com/]tls://112.65.69.15
+[/guzzoni.apple.com/]tls://112.65.69.15
+[/guzzoni.smoot.apple.com/]tls://112.65.69.15
+[/iadsdk.apple.com/]tls://112.65.69.15
+[/icloud-cdn.icloud.com.akadns.net/]tls://112.65.69.15
+[/icloud.cdn-apple.com/]tls://112.65.69.15
+[/images.apple.com.akadns.net/]tls://112.65.69.15
+[/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://112.65.69.15
+[/images.apple.com/]tls://112.65.69.15
+[/init-kt.apple.com/]tls://112.65.69.15
+[/init-p01md-lb.push-apple.com.akadns.net/]tls://112.65.69.15
+[/init-p01md.apple.com/]tls://112.65.69.15
+[/init-p01st-lb.push-apple.com.akadns.net/]tls://112.65.69.15
+[/init-p01st.push.apple.com/]tls://112.65.69.15
+[/init-s01st-lb.push-apple.com.akadns.net/]tls://112.65.69.15
+[/init-s01st.push.apple.com/]tls://112.65.69.15
+[/init.ess.apple.com/]tls://112.65.69.15
+[/iosapps.itunes.g.aaplimg.com/]tls://112.65.69.15
+[/ipcdn.apple.com/]tls://112.65.69.15
+[/iphone-ld.apple.com/]tls://112.65.69.15
+[/iphone-ld.origin-apple.com.akadns.net/]tls://112.65.69.15
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]tls://112.65.69.15
+[/is1-ssl.mzstatic.com/]tls://112.65.69.15
+[/is1.mzstatic.com/]tls://112.65.69.15
+[/is2-ssl.mzstatic.com/]tls://112.65.69.15
+[/is2.mzstatic.com/]tls://112.65.69.15
+[/is3-ssl.mzstatic.com/]tls://112.65.69.15
+[/is3.mzstatic.com/]tls://112.65.69.15
+[/is4-ssl.mzstatic.com/]tls://112.65.69.15
+[/is4.mzstatic.com/]tls://112.65.69.15
+[/is5-ssl.mzstatic.com/]tls://112.65.69.15
+[/is5.mzstatic.com/]tls://112.65.69.15
+[/itunes-apple.com.akadns.net/]tls://112.65.69.15
+[/itunes.apple.com/]tls://112.65.69.15
+[/itunesconnect.apple.com/]tls://112.65.69.15
+[/mesu-cdn.apple.com.akadns.net/]tls://112.65.69.15
+[/mesu-china.apple.com.akadns.net/]tls://112.65.69.15
+[/mesu.apple.com/]tls://112.65.69.15
+[/ml.cdn-apple.com/]tls://112.65.69.15
+[/music.apple.com/]tls://112.65.69.15
+[/ocsp-lb.apple.com.akadns.net/]tls://112.65.69.15
+[/ocsp.apple.com/]tls://112.65.69.15
+[/ocsp2-lb.apple.com.akadns.net/]tls://112.65.69.15
+[/ocsp2.apple.com/]tls://112.65.69.15
+[/oscdn.apple.com/]tls://112.65.69.15
+[/oscdn.origin-apple.com.akadns.net/]tls://112.65.69.15
+[/osxapps.itunes.g.aaplimg.com/]tls://112.65.69.15
+[/pancake.apple.com/]tls://112.65.69.15
+[/pancake.cdn-apple.com.akadns.net/]tls://112.65.69.15
+[/pba0.apple.com/]tls://112.65.69.15
+[/probe.siri.apple.com/]tls://112.65.69.15
+[/prod-support.apple-support.akadns.net/]tls://112.65.69.15
+[/publicassets.cdn-apple.com/]tls://112.65.69.15
+[/reserve-prime.apple.com/]tls://112.65.69.15
+[/s.mzstatic.com/]tls://112.65.69.15
+[/seed-sequoia.siri.apple.com/]tls://112.65.69.15
+[/seed-swallow.siri.apple.com/]tls://112.65.69.15
+[/seed.siri.apple.com/]tls://112.65.69.15
+[/sequoia.apple.com/]tls://112.65.69.15
+[/sh-pod2-smp-device.apple.com/]tls://112.65.69.15
+[/shazam-insights.cdn-apple.com/]tls://112.65.69.15
+[/smp-device-content.apple.com/]tls://112.65.69.15
+[/static.gc.apple.com/]tls://112.65.69.15
+[/stocks-sparkline-lb.apple.com.akadns.net/]tls://112.65.69.15
+[/stocks-sparkline.apple.com/]tls://112.65.69.15
+[/store.apple.com.edgekey.net.globalredir.akadns.net/]tls://112.65.69.15
+[/store.apple.com.edgekey.net/]tls://112.65.69.15
+[/store.apple.com/]tls://112.65.69.15
+[/store.storeimages.apple.com.akadns.net/]tls://112.65.69.15
+[/store.storeimages.cdn-apple.com/]tls://112.65.69.15
+[/support-china.apple-support.akadns.net/]tls://112.65.69.15
+[/support.apple.com/]tls://112.65.69.15
+[/swallow-apple-com.v.aaplimg.com/]tls://112.65.69.15
+[/swallow.apple.com/]tls://112.65.69.15
+[/swcatalog-cdn.apple.com.akadns.net/]tls://112.65.69.15
+[/swcatalog.apple.com/]tls://112.65.69.15
+[/swcdn.apple.com/]tls://112.65.69.15
+[/swcdn.g.aaplimg.com/]tls://112.65.69.15
+[/swdist.apple.com.akadns.net/]tls://112.65.69.15
+[/swdist.apple.com/]tls://112.65.69.15
+[/swscan-cdn.apple.com.akadns.net/]tls://112.65.69.15
+[/swscan.apple.com/]tls://112.65.69.15
+[/sylvan.apple.com/]tls://112.65.69.15
+[/tj-pod1-smp-device.apple.com/]tls://112.65.69.15
+[/updates-http.cdn-apple.com.akadns.net/]tls://112.65.69.15
+[/updates-http.cdn-apple.com/]tls://112.65.69.15
+[/updates.cdn-apple.com/]tls://112.65.69.15
+[/valid.apple.com/]tls://112.65.69.15
+[/valid.origin-apple.com.akadns.net/]tls://112.65.69.15
+[/weather-data.apple.com.akadns.net/]tls://112.65.69.15
+[/weather-data.apple.com/]tls://112.65.69.15
+[/weather-map.apple.com/]tls://112.65.69.15
+[/weather-map2.apple.com/]tls://112.65.69.15
+[/weatherkit.apple.com/]tls://112.65.69.15
+[/www.apple.com.edgekey.net.globalredir.akadns.net/]tls://112.65.69.15
+[/www.apple.com.edgekey.net/]tls://112.65.69.15
+[/www.apple.com/]tls://112.65.69.15
+[/xp.apple.com/]tls://112.65.69.15
