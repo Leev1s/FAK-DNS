@@ -7759,6 +7759,7 @@
 [/91student.com/]tls://112.65.69.15
 [/91suan.com/]tls://112.65.69.15
 [/91suke.com/]tls://112.65.69.15
+[/91syun.com/]tls://112.65.69.15
 [/91taoke.com/]tls://112.65.69.15
 [/91testing.net/]tls://112.65.69.15
 [/91ting.net/]tls://112.65.69.15
@@ -7859,6 +7860,7 @@
 [/92jzh.com/]tls://112.65.69.15
 [/92kaifa.com/]tls://112.65.69.15
 [/92kk.com/]tls://112.65.69.15
+[/92ku.com/]tls://112.65.69.15
 [/92le.com/]tls://112.65.69.15
 [/92lm.com/]tls://112.65.69.15
 [/92lucky.com/]tls://112.65.69.15
@@ -10004,7 +10006,9 @@
 [/aliqq.cc/]tls://112.65.69.15
 [/aliresearch.com/]tls://112.65.69.15
 [/alirui.com/]tls://112.65.69.15
+[/alishine.net/]tls://112.65.69.15
 [/alisoft.com/]tls://112.65.69.15
+[/alisolarlight.com/]tls://112.65.69.15
 [/alisports.com/]tls://112.65.69.15
 [/alit.live/]tls://112.65.69.15
 [/alitchina.com/]tls://112.65.69.15
@@ -10444,6 +10448,7 @@
 [/anlai.com/]tls://112.65.69.15
 [/anlaiye.com/]tls://112.65.69.15
 [/anlewo.com/]tls://112.65.69.15
+[/anlian.co/]tls://112.65.69.15
 [/anlianweb.com/]tls://112.65.69.15
 [/anlibaby.com/]tls://112.65.69.15
 [/anlibang.com/]tls://112.65.69.15
@@ -10525,6 +10530,7 @@
 [/antfin.com/]tls://112.65.69.15
 [/antfortune.com/]tls://112.65.69.15
 [/antgroup.com/]tls://112.65.69.15
+[/antibanads.com/]tls://112.65.69.15
 [/anticheatexpert.com/]tls://112.65.69.15
 [/antiquelearn.com/]tls://112.65.69.15
 [/antiy.com/]tls://112.65.69.15
@@ -16044,6 +16050,7 @@
 [/caohua.com/]tls://112.65.69.15
 [/caojinglawyer.com/]tls://112.65.69.15
 [/caoke.net/]tls://112.65.69.15
+[/caoliao.net/]tls://112.65.69.15
 [/caomall.net/]tls://112.65.69.15
 [/caomeishuma.com/]tls://112.65.69.15
 [/caomeixz10.xyz/]tls://112.65.69.15
@@ -20998,6 +21005,7 @@
 [/cpihualai.com/]tls://112.65.69.15
 [/cpitsh.org/]tls://112.65.69.15
 [/cpjltx.com/]tls://112.65.69.15
+[/cplamc.com/]tls://112.65.69.15
 [/cpm1000.com/]tls://112.65.69.15
 [/cpmiao.net/]tls://112.65.69.15
 [/cpo.xyz/]tls://112.65.69.15
@@ -21155,6 +21163,7 @@
 [/cqkx.com/]tls://112.65.69.15
 [/cqkxhospital.com/]tls://112.65.69.15
 [/cqkytq.com/]tls://112.65.69.15
+[/cqlba.com/]tls://112.65.69.15
 [/cqletoumtk.com/]tls://112.65.69.15
 [/cqlinrui.com/]tls://112.65.69.15
 [/cqliving.com/]tls://112.65.69.15
@@ -22533,6 +22542,7 @@
 [/daluxinxi.com/]tls://112.65.69.15
 [/dalvhe.com/]tls://112.65.69.15
 [/dalvlaw.com/]tls://112.65.69.15
+[/dalyfeds.com/]tls://112.65.69.15
 [/damai.com/]tls://112.65.69.15
 [/damaicheng.com/]tls://112.65.69.15
 [/damddos.com/]tls://112.65.69.15
@@ -23397,6 +23407,7 @@
 [/desktop-calculator.com/]tls://112.65.69.15
 [/desktopcal.com/]tls://112.65.69.15
 [/deskwc.com/]tls://112.65.69.15
+[/desnerboats.com/]tls://112.65.69.15
 [/desoonproduct.com/]tls://112.65.69.15
 [/despiertocfilms.com/]tls://112.65.69.15
 [/destarauto.com/]tls://112.65.69.15
@@ -23624,6 +23635,7 @@
 [/dgsenmiao.com/]tls://112.65.69.15
 [/dgsfweb.com/]tls://112.65.69.15
 [/dgshifeng.com/]tls://112.65.69.15
+[/dgshunjin.com/]tls://112.65.69.15
 [/dgsltx.com/]tls://112.65.69.15
 [/dgsme.org/]tls://112.65.69.15
 [/dgspk.com/]tls://112.65.69.15
@@ -23723,6 +23735,7 @@
 [/dialoguechinefrance.com/]tls://112.65.69.15
 [/diamondfavour.net/]tls://112.65.69.15
 [/diamondfsd.com/]tls://112.65.69.15
+[/diamondnusapenida.com/]tls://112.65.69.15
 [/dian-ai.com/]tls://112.65.69.15
 [/dian-stable.com/]tls://112.65.69.15
 [/dian.so/]tls://112.65.69.15
@@ -25479,6 +25492,8 @@
 [/duomai.com/]tls://112.65.69.15
 [/duomeng.fun/]tls://112.65.69.15
 [/duomi.com/]tls://112.65.69.15
+[/duomian-static.com/]tls://112.65.69.15
+[/duomian.com/]tls://112.65.69.15
 [/duomiao.pro/]tls://112.65.69.15
 [/duomicheng.com/]tls://112.65.69.15
 [/duominuo.com/]tls://112.65.69.15
@@ -38123,6 +38138,7 @@
 [/hikops.com/]tls://112.65.69.15
 [/hikparking.com/]tls://112.65.69.15
 [/hikrobotics.com/]tls://112.65.69.15
+[/hiksemitech.com/]tls://112.65.69.15
 [/hikstor.com/]tls://112.65.69.15
 [/hikstorage.com/]tls://112.65.69.15
 [/hikunpeng.com/]tls://112.65.69.15
@@ -39138,6 +39154,7 @@
 [/hopebiol.com/]tls://112.65.69.15
 [/hopecool.com/]tls://112.65.69.15
 [/hopeda.com/]tls://112.65.69.15
+[/hopegoocdn.com/]tls://112.65.69.15
 [/hopehook.com/]tls://112.65.69.15
 [/hopenoah.com/]tls://112.65.69.15
 [/hoperun.com/]tls://112.65.69.15
@@ -44706,6 +44723,7 @@
 [/jianpu2.com/]tls://112.65.69.15
 [/jianpu8.com/]tls://112.65.69.15
 [/jianpu99.net/]tls://112.65.69.15
+[/jianpuku.com/]tls://112.65.69.15
 [/jianpuw.com/]tls://112.65.69.15
 [/jianq.com/]tls://112.65.69.15
 [/jianqi88.com/]tls://112.65.69.15
@@ -50618,6 +50636,7 @@
 [/leolin86.com/]tls://112.65.69.15
 [/leonblog.net/]tls://112.65.69.15
 [/leoogo.com/]tls://112.65.69.15
+[/leopardtale.com/]tls://112.65.69.15
 [/leopump.com/]tls://112.65.69.15
 [/leowu.online/]tls://112.65.69.15
 [/leozwang.com/]tls://112.65.69.15
@@ -50759,6 +50778,7 @@
 [/leyuncp.com/]tls://112.65.69.15
 [/leyungame.com/]tls://112.65.69.15
 [/leyunge.com/]tls://112.65.69.15
+[/leyuwen.com/]tls://112.65.69.15
 [/leyuxyz.com/]tls://112.65.69.15
 [/leyuz.com/]tls://112.65.69.15
 [/lezai.com/]tls://112.65.69.15
@@ -51226,6 +51246,7 @@
 [/likecha.com/]tls://112.65.69.15
 [/likechuxing.com/]tls://112.65.69.15
 [/likecs.com/]tls://112.65.69.15
+[/likee.video/]tls://112.65.69.15
 [/likeface.com/]tls://112.65.69.15
 [/likefar.com/]tls://112.65.69.15
 [/likefont.com/]tls://112.65.69.15
@@ -53088,6 +53109,7 @@
 [/lxkj.site/]tls://112.65.69.15
 [/lxkj2022.com/]tls://112.65.69.15
 [/lxlinux.net/]tls://112.65.69.15
+[/lxns.net/]tls://112.65.69.15
 [/lxny.vip/]tls://112.65.69.15
 [/lxr.xn--6qq986b3xl/]tls://112.65.69.15
 [/lxs678.com/]tls://112.65.69.15
@@ -53835,6 +53857,7 @@
 [/malagis.com/]tls://112.65.69.15
 [/malait.com/]tls://112.65.69.15
 [/malajikuai.com/]tls://112.65.69.15
+[/malaysia-mdac.com/]tls://112.65.69.15
 [/maldiveszh.com/]tls://112.65.69.15
 [/maldun.com/]tls://112.65.69.15
 [/malei.net/]tls://112.65.69.15
@@ -57081,6 +57104,7 @@
 [/n2017.com/]tls://112.65.69.15
 [/n21.cc/]tls://112.65.69.15
 [/n21ce.com/]tls://112.65.69.15
+[/n2ij46poes.shop/]tls://112.65.69.15
 [/n3sd.com/]tls://112.65.69.15
 [/n423.com/]tls://112.65.69.15
 [/n459.com/]tls://112.65.69.15
@@ -60210,6 +60234,7 @@
 [/p.biz/]tls://112.65.69.15
 [/p.cdn.persaas.dell.com/]tls://112.65.69.15
 [/p.kg/]tls://112.65.69.15
+[/p007fyt3.group/]tls://112.65.69.15
 [/p04e.com/]tls://112.65.69.15
 [/p1.com/]tls://112.65.69.15
 [/p12345.com/]tls://112.65.69.15
@@ -66689,6 +66714,7 @@
 [/scpgroup.com/]tls://112.65.69.15
 [/scplt.com/]tls://112.65.69.15
 [/scqcp.com/]tls://112.65.69.15
+[/scramen.cloud/]tls://112.65.69.15
 [/scrape.center/]tls://112.65.69.15
 [/scrc168.com/]tls://112.65.69.15
 [/scrcu.com/]tls://112.65.69.15
@@ -69885,6 +69911,7 @@
 [/slbiop.com/]tls://112.65.69.15
 [/slbrucite.com/]tls://112.65.69.15
 [/slchos.com/]tls://112.65.69.15
+[/slcyber.icu/]tls://112.65.69.15
 [/slduntong.com/]tls://112.65.69.15
 [/sle.group/]tls://112.65.69.15
 [/sleele.com/]tls://112.65.69.15
@@ -69961,6 +69988,7 @@
 [/smartgaga.com/]tls://112.65.69.15
 [/smarthey.com/]tls://112.65.69.15
 [/smarthomecn.com/]tls://112.65.69.15
+[/smartinnovation.online/]tls://112.65.69.15
 [/smartisan.com/]tls://112.65.69.15
 [/smartisanos.com/]tls://112.65.69.15
 [/smartisantv.com/]tls://112.65.69.15
@@ -70801,6 +70829,7 @@
 [/srceo.com/]tls://112.65.69.15
 [/srcgsre.com/]tls://112.65.69.15
 [/srcmsh.com/]tls://112.65.69.15
+[/srcyou.com/]tls://112.65.69.15
 [/sre.ink/]tls://112.65.69.15
 [/srell.com/]tls://112.65.69.15
 [/srfip.com/]tls://112.65.69.15
@@ -70965,6 +70994,7 @@
 [/st12121.net/]tls://112.65.69.15
 [/st123.com/]tls://112.65.69.15
 [/st180.com/]tls://112.65.69.15
+[/staceydabney.com/]tls://112.65.69.15
 [/stackboom.xin/]tls://112.65.69.15
 [/stackcc.com/]tls://112.65.69.15
 [/stackoom.com/]tls://112.65.69.15
@@ -74482,6 +74512,7 @@
 [/tlinx.com/]tls://112.65.69.15
 [/tliveapp.com/]tls://112.65.69.15
 [/tlivecdn.com/]tls://112.65.69.15
+[/tlivecdnv1.com/]tls://112.65.69.15
 [/tlivecdnv2.com/]tls://112.65.69.15
 [/tlivedns.com/]tls://112.65.69.15
 [/tlivednsv1.com/]tls://112.65.69.15
@@ -79367,6 +79398,7 @@
 [/wepiao.com/]tls://112.65.69.15
 [/wepie.com/]tls://112.65.69.15
 [/wepieoa.com/]tls://112.65.69.15
+[/weplayapp.com/]tls://112.65.69.15
 [/weplaybubble.com/]tls://112.65.69.15
 [/weplaymore.com/]tls://112.65.69.15
 [/weplus.com/]tls://112.65.69.15
@@ -79868,6 +79900,7 @@
 [/wicp.net/]tls://112.65.69.15
 [/wicp.vip/]tls://112.65.69.15
 [/wicresoft.com/]tls://112.65.69.15
+[/widgetable.net/]tls://112.65.69.15
 [/widuu.com/]tls://112.65.69.15
 [/wifenxiao.com/]tls://112.65.69.15
 [/wifi.com/]tls://112.65.69.15
@@ -91731,6 +91764,7 @@
 [/zhugefang.com/]tls://112.65.69.15
 [/zhugeio.com/]tls://112.65.69.15
 [/zhugequan.com/]tls://112.65.69.15
+[/zhugh.com/]tls://112.65.69.15
 [/zhuhaily.com/]tls://112.65.69.15
 [/zhuhd.win/]tls://112.65.69.15
 [/zhuhudong.com/]tls://112.65.69.15
