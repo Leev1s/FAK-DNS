@@ -2,7 +2,6 @@
 [/0.zone/]tls://112.65.69.15
 [/00.net/]tls://112.65.69.15
 [/000.link/]tls://112.65.69.15
-[/0000g.com/]tls://112.65.69.15
 [/00042.com/]tls://112.65.69.15
 [/00058.com/]tls://112.65.69.15
 [/0006266.com/]tls://112.65.69.15
@@ -2101,6 +2100,7 @@
 [/1aq.com/]tls://112.65.69.15
 [/1auto.net/]tls://112.65.69.15
 [/1b17.com/]tls://112.65.69.15
+[/1b1tech.com/]tls://112.65.69.15
 [/1b23.com/]tls://112.65.69.15
 [/1biaozhun.com/]tls://112.65.69.15
 [/1bus.net/]tls://112.65.69.15
@@ -4058,7 +4058,6 @@
 [/4484.win/]tls://112.65.69.15
 [/44971.com/]tls://112.65.69.15
 [/44983.com/]tls://112.65.69.15
-[/44dt.com/]tls://112.65.69.15
 [/44h.co/]tls://112.65.69.15
 [/44jj.com/]tls://112.65.69.15
 [/44vs.com/]tls://112.65.69.15
@@ -7251,7 +7250,6 @@
 [/8721.com/]tls://112.65.69.15
 [/872872.com/]tls://112.65.69.15
 [/8767.com/]tls://112.65.69.15
-[/876u.com/]tls://112.65.69.15
 [/876web.com/]tls://112.65.69.15
 [/8770000.com/]tls://112.65.69.15
 [/877311.com/]tls://112.65.69.15
@@ -8240,7 +8238,6 @@
 [/998jk.com/]tls://112.65.69.15
 [/998jx.com/]tls://112.65.69.15
 [/998law.com/]tls://112.65.69.15
-[/998movie.com/]tls://112.65.69.15
 [/9991.com/]tls://112.65.69.15
 [/999120.net/]tls://112.65.69.15
 [/999136.xyz/]tls://112.65.69.15
@@ -12227,6 +12224,7 @@
 [/bamatea.com/]tls://112.65.69.15
 [/bamaying.com/]tls://112.65.69.15
 [/bamboo18.com/]tls://112.65.69.15
+[/bambooolab.com/]tls://112.65.69.15
 [/bamengame.com/]tls://112.65.69.15
 [/bamensq.com/]tls://112.65.69.15
 [/bamuwu.com/]tls://112.65.69.15
@@ -14902,7 +14900,6 @@
 [/boyikang.com/]tls://112.65.69.15
 [/boyingsj.com/]tls://112.65.69.15
 [/boyishu.me/]tls://112.65.69.15
-[/boyoline.com/]tls://112.65.69.15
 [/boyoucy.com/]tls://112.65.69.15
 [/boyouquan.com/]tls://112.65.69.15
 [/boyuan.com/]tls://112.65.69.15
@@ -15641,7 +15638,6 @@
 [/c1s.com/]tls://112.65.69.15
 [/c2h4.org/]tls://112.65.69.15
 [/c2wtvr0jq.sbs/]tls://112.65.69.15
-[/c31.fun/]tls://112.65.69.15
 [/c355595c3.buzz/]tls://112.65.69.15
 [/c360dn.com/]tls://112.65.69.15
 [/c3acg.com/]tls://112.65.69.15
@@ -23518,7 +23514,6 @@
 [/dfzmzyc.com/]tls://112.65.69.15
 [/dfzxvip.com/]tls://112.65.69.15
 [/dg-360lhx.com/]tls://112.65.69.15
-[/dg-cbd.com/]tls://112.65.69.15
 [/dg-hanxin.com/]tls://112.65.69.15
 [/dg-mall.com/]tls://112.65.69.15
 [/dg-niuniu.com/]tls://112.65.69.15
@@ -27766,6 +27761,7 @@
 [/fadior.cc/]tls://112.65.69.15
 [/fadoudou.com/]tls://112.65.69.15
 [/fadsc.com/]tls://112.65.69.15
+[/fadsfasd.asia/]tls://112.65.69.15
 [/fadui.com/]tls://112.65.69.15
 [/fafa9.com/]tls://112.65.69.15
 [/fafachen.com/]tls://112.65.69.15
@@ -36426,6 +36422,7 @@
 [/haolidayiliao.com/]tls://112.65.69.15
 [/haolietou.com/]tls://112.65.69.15
 [/haoliners.net/]tls://112.65.69.15
+[/haoling.cc/]tls://112.65.69.15
 [/haolints.com/]tls://112.65.69.15
 [/haoliv.com/]tls://112.65.69.15
 [/haolizi.net/]tls://112.65.69.15
@@ -36996,7 +36993,6 @@
 [/hbzuojia.com/]tls://112.65.69.15
 [/hbzw56.com/]tls://112.65.69.15
 [/hbzywh.com/]tls://112.65.69.15
-[/hbzzedu.com/]tls://112.65.69.15
 [/hc-byq.com/]tls://112.65.69.15
 [/hc-cdn.com/]tls://112.65.69.15
 [/hc-ph.com/]tls://112.65.69.15
@@ -37038,7 +37034,6 @@
 [/hch518.com/]tls://112.65.69.15
 [/hchbblg.com/]tls://112.65.69.15
 [/hchbsb.com/]tls://112.65.69.15
-[/hchetao.com/]tls://112.65.69.15
 [/hchezhu.com/]tls://112.65.69.15
 [/hchlidc.com/]tls://112.65.69.15
 [/hchliot.com/]tls://112.65.69.15
@@ -41819,7 +41814,6 @@
 [/iduodou.com/]tls://112.65.69.15
 [/iduokan.net/]tls://112.65.69.15
 [/idwzx.com/]tls://112.65.69.15
-[/idy360.com/]tls://112.65.69.15
 [/idzmb.com/]tls://112.65.69.15
 [/ie515.com/]tls://112.65.69.15
 [/ie525.com/]tls://112.65.69.15
@@ -44618,7 +44612,6 @@
 [/jianli-sky.com/]tls://112.65.69.15
 [/jianli.com/]tls://112.65.69.15
 [/jianli88.com/]tls://112.65.69.15
-[/jianli9.com/]tls://112.65.69.15
 [/jianliao.com/]tls://112.65.69.15
 [/jianliben.com/]tls://112.65.69.15
 [/jianliduo.com/]tls://112.65.69.15
@@ -45228,6 +45221,7 @@
 [/jingyu.com/]tls://112.65.69.15
 [/jingyuan.com/]tls://112.65.69.15
 [/jingyuelaw.com/]tls://112.65.69.15
+[/jingyuweike.com/]tls://112.65.69.15
 [/jingyuxiaoban.com/]tls://112.65.69.15
 [/jingyuyun.com/]tls://112.65.69.15
 [/jingzhengu.com/]tls://112.65.69.15
@@ -49223,7 +49217,6 @@
 [/kunkundev.com/]tls://112.65.69.15
 [/kunkunyu.com/]tls://112.65.69.15
 [/kunlexf.com/]tls://112.65.69.15
-[/kunlun-cdn.com/]tls://112.65.69.15
 [/kunlunaq.com/]tls://112.65.69.15
 [/kunlunar.com/]tls://112.65.69.15
 [/kunlunca.com/]tls://112.65.69.15
@@ -49569,7 +49562,6 @@
 [/lailinzhihui.com/]tls://112.65.69.15
 [/lailook.net/]tls://112.65.69.15
 [/laima-tech.com/]tls://112.65.69.15
-[/laimaidi.com/]tls://112.65.69.15
 [/lainzy.net/]tls://112.65.69.15
 [/laipei.net/]tls://112.65.69.15
 [/laiqi.net/]tls://112.65.69.15
@@ -54744,6 +54736,7 @@
 [/metalyoung.com/]tls://112.65.69.15
 [/metaplanet3023.com/]tls://112.65.69.15
 [/metasecurities.com/]tls://112.65.69.15
+[/metastonecorp.com/]tls://112.65.69.15
 [/metastudioxr.com/]tls://112.65.69.15
 [/metastudy.vip/]tls://112.65.69.15
 [/metasyun.com/]tls://112.65.69.15
@@ -59617,6 +59610,7 @@
 [/ontheroadstore.com/]tls://112.65.69.15
 [/onthink.com/]tls://112.65.69.15
 [/ontvb.com/]tls://112.65.69.15
+[/onwear.net/]tls://112.65.69.15
 [/onwsw.com/]tls://112.65.69.15
 [/onyealink.com/]tls://112.65.69.15
 [/onyi.net/]tls://112.65.69.15
@@ -62835,7 +62829,6 @@
 [/qifuip.com/]tls://112.65.69.15
 [/qifun.com/]tls://112.65.69.15
 [/qifuyuan.com/]tls://112.65.69.15
-[/qiggg1101.com/]tls://112.65.69.15
 [/qigongworld.net/]tls://112.65.69.15
 [/qigousoft.com/]tls://112.65.69.15
 [/qiguagua.com/]tls://112.65.69.15
@@ -65419,7 +65412,6 @@
 [/rongji.com/]tls://112.65.69.15
 [/rongkao.com/]tls://112.65.69.15
 [/rongledz.com/]tls://112.65.69.15
-[/ronglianmeng.net/]tls://112.65.69.15
 [/rongmei.net/]tls://112.65.69.15
 [/rongnav.com/]tls://112.65.69.15
 [/rongroad.com/]tls://112.65.69.15
@@ -66768,7 +66760,6 @@
 [/sdguguo.com/]tls://112.65.69.15
 [/sdgw.com/]tls://112.65.69.15
 [/sdgwy.org/]tls://112.65.69.15
-[/sdhangfengji.com/]tls://112.65.69.15
 [/sdhbcl.com/]tls://112.65.69.15
 [/sdhdssd.com/]tls://112.65.69.15
 [/sdhfsh.com/]tls://112.65.69.15
@@ -66902,7 +66893,6 @@
 [/sdteleiptv.com/]tls://112.65.69.15
 [/sdtlly.com/]tls://112.65.69.15
 [/sdtrxx.com/]tls://112.65.69.15
-[/sdtsmm.com/]tls://112.65.69.15
 [/sdtsrf.com/]tls://112.65.69.15
 [/sdtugongbucj.com/]tls://112.65.69.15
 [/sdtvjiankang.com/]tls://112.65.69.15
@@ -68081,7 +68071,6 @@
 [/shenyecg.com/]tls://112.65.69.15
 [/shenyehd.com/]tls://112.65.69.15
 [/shenyeyunying.com/]tls://112.65.69.15
-[/shenyj.com/]tls://112.65.69.15
 [/shenyou.tv/]tls://112.65.69.15
 [/shenyu.me/]tls://112.65.69.15
 [/shenyuanquan.com/]tls://112.65.69.15
@@ -68888,6 +68877,7 @@
 [/shuizhifenxi.com/]tls://112.65.69.15
 [/shuizhiyuncaishui.com/]tls://112.65.69.15
 [/shuizilong.com/]tls://112.65.69.15
+[/shujiangweike.com/]tls://112.65.69.15
 [/shujike.com/]tls://112.65.69.15
 [/shuju.net/]tls://112.65.69.15
 [/shujuba.net/]tls://112.65.69.15
@@ -69150,6 +69140,7 @@
 [/sibfi.com/]tls://112.65.69.15
 [/sibida.net/]tls://112.65.69.15
 [/siboda-nb.com/]tls://112.65.69.15
+[/sibsiu.com/]tls://112.65.69.15
 [/sibuzyn.com/]tls://112.65.69.15
 [/sicarrier.com/]tls://112.65.69.15
 [/sicent.com/]tls://112.65.69.15
@@ -75451,7 +75442,6 @@
 [/tuhu.org/]tls://112.65.69.15
 [/tuhu.work/]tls://112.65.69.15
 [/tui18.com/]tls://112.65.69.15
-[/tui56.com/]tls://112.65.69.15
 [/tuiaaaa.com/]tls://112.65.69.15
 [/tuiaaae.com/]tls://112.65.69.15
 [/tuiaaaf.com/]tls://112.65.69.15
@@ -75944,7 +75934,6 @@
 [/tzjufeng.com/]tls://112.65.69.15
 [/tzjwrml.com/]tls://112.65.69.15
 [/tzjxl.com/]tls://112.65.69.15
-[/tzkameng.com/]tls://112.65.69.15
 [/tzkciz.com/]tls://112.65.69.15
 [/tzlib.net/]tls://112.65.69.15
 [/tzlmt.com/]tls://112.65.69.15
@@ -77133,7 +77122,6 @@
 [/verify5.com/]tls://112.65.69.15
 [/verisilicon.com/]tls://112.65.69.15
 [/verisyno.com/]tls://112.65.69.15
-[/vernonpratt.com/]tls://112.65.69.15
 [/verodillan.com/]tls://112.65.69.15
 [/versoventure.com/]tls://112.65.69.15
 [/vertex.team/]tls://112.65.69.15
@@ -77233,6 +77221,7 @@
 [/vicpalm.com/]tls://112.65.69.15
 [/vicrab.com/]tls://112.65.69.15
 [/vicsdf.com/]tls://112.65.69.15
+[/victim.xn--vuq861b/]tls://112.65.69.15
 [/victory-inflight.com/]tls://112.65.69.15
 [/viczz.com/]tls://112.65.69.15
 [/vida-bio.com/]tls://112.65.69.15
@@ -81145,7 +81134,6 @@
 [/www53119cc.com/]tls://112.65.69.15
 [/www5929.com/]tls://112.65.69.15
 [/www662555.com/]tls://112.65.69.15
-[/www7546.com/]tls://112.65.69.15
 [/www8huoks.com/]tls://112.65.69.15
 [/www939666.com/]tls://112.65.69.15
 [/www985555.com/]tls://112.65.69.15
@@ -82968,7 +82956,6 @@
 [/xinchaoss.com/]tls://112.65.69.15
 [/xinchego.com/]tls://112.65.69.15
 [/xincheng.com/]tls://112.65.69.15
-[/xinchengcm.com/]tls://112.65.69.15
 [/xinchengyue.com/]tls://112.65.69.15
 [/xincheping.com/]tls://112.65.69.15
 [/xinchess.com/]tls://112.65.69.15
@@ -85140,7 +85127,6 @@
 [/xyhjd168.com/]tls://112.65.69.15
 [/xyhlcd.com/]tls://112.65.69.15
 [/xyhospital.com/]tls://112.65.69.15
-[/xyhpjy.com/]tls://112.65.69.15
 [/xyhqsh.com/]tls://112.65.69.15
 [/xyhtml5.com/]tls://112.65.69.15
 [/xyict.com/]tls://112.65.69.15
@@ -89210,7 +89196,6 @@
 [/yuzhuan.com/]tls://112.65.69.15
 [/yuzhulin.com/]tls://112.65.69.15
 [/yuzhuw.com/]tls://112.65.69.15
-[/yuzi.net/]tls://112.65.69.15
 [/yuzijiaoyu.com/]tls://112.65.69.15
 [/yuzmshanghai.org/]tls://112.65.69.15
 [/yuzone.net/]tls://112.65.69.15
@@ -89479,7 +89464,6 @@
 [/yymoban.com/]tls://112.65.69.15
 [/yynetwk.com/]tls://112.65.69.15
 [/yyouren.com/]tls://112.65.69.15
-[/yypm.com/]tls://112.65.69.15
 [/yypt.com/]tls://112.65.69.15
 [/yyq.com/]tls://112.65.69.15
 [/yyquan.vip/]tls://112.65.69.15
@@ -92672,7 +92656,6 @@
 [/zpenr.com/]tls://112.65.69.15
 [/zpfdc.com/]tls://112.65.69.15
 [/zpgd.net/]tls://112.65.69.15
-[/zpgpt.com/]tls://112.65.69.15
 [/zphlkj.com/]tls://112.65.69.15
 [/zphuagong.com/]tls://112.65.69.15
 [/zpidc.com/]tls://112.65.69.15
