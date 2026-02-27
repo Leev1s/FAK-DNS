@@ -29,8 +29,8 @@ avatar.xboxlive.com
 bg4.v4.a.dl.ws.microsoft.com
 bg.v4.a.dl.ws.microsoft.com
 blog.tutorabc.com
-blog.vive.com
 borgmon.adz.google.com
+bpsso.lenovo.com
 build.microsoft.com
 cashier.alipay.com.srip.net
 catalog-cdn.xboxlive.com
@@ -46,7 +46,6 @@ china-cdn3.unityads.unity3d.com
 china.msn.com
 china.nba.com
 china.uxengine.net
-cl2.apple.com.edgekey.net.globalredir.akadns.net
 click.dji.com
 client-download.steampowered.com
 clubhub.xboxlive.com
@@ -76,10 +75,11 @@ cowork.cn.extranet.lenovo.com
 cowork.cn.lenovo.com
 cowork.us.extranet.lenovo.com
 cowork.us.lenovo.com
-createpoint.qti.qualcomm.com
 cs-analytics.htcsense.com
 c.s-microsoft.com
+cubemail.lenovo.com
 dam-storage.msi.com
+datasecurity.htcsense.com
 deny-netfilter.uds-dev.lenovo.com
 distribution.qatp1.net
 distribution.qcpp1.net
@@ -89,8 +89,6 @@ dlassets.xboxlive.com
 dlcdnets.asus.com
 dns.corp.google.com
 docs.microsoft.com
-downloadcenter.samsung.com
-download-cn.msi.com
 download.epicgames.com
 download.gfe.nvidia.com
 download.mcafee.com
@@ -178,11 +176,8 @@ liveupdate01.asus.com
 liveupdate.msi.com
 lnkd.licdn.com
 luci.lenovo.com
-lx2.cok.elexapp.com
-lx2.cok.elex.com
 manage.c3edge.com
 marketplace-xb.xboxlive.com
-mbsuat.download.prss.microsoft.com
 mce.msi.com
 media.admob.com
 mediaexp-programming.xboxlive.com
@@ -196,13 +191,12 @@ monitoring.qcpp1.net
 msgr.dlservice.microsoft.com
 msgruser.dlservice.microsoft.com
 msg.xboxlive.com
-msproductuat.download.prss.microsoft.com
-myvsuat.download.prss.microsoft.com
 ngportal.cdnetworks.com
 nxeassets.xbox.com
 ocsp-data.us.cdnetworks.com
 olay-cn.cdnpg.com
 orig-download.msi.com
+orig-liveupdate.msi.com
 owner-api.teslamotors.com
 partner.globalsign.com
 phobos.apple.com
@@ -250,7 +244,6 @@ settings.crashlytics.com
 settings.xboxlive.com
 settings.xn--9trs65b.com
 shop.samsung.com
-si.cdn.dell.com
 silverlight.dlservice.microsoft.com
 sim.lenovo.com
 sina.com.hk
@@ -333,7 +326,6 @@ www.sulwhasoo.com
 www.thinkpad.com
 www.travelzoo.com
 www.tzoo-img.com
-www.vive.com
 xb.dlservice.microsoft.com
 x-dash-public.rec.mp.microsoft.com
 xn--9kr7l.com
