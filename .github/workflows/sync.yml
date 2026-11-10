@@ -15,12 +15,25 @@ jobs:
     if: ${{ github.event.repository.fork }}
 
     steps:
-      # Step 1: run a standard checkout action
+      - name: Check for upstream commits
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          behind=$(gh api "repos/felixonmars/dnsmasq-china-list/compare/master...${GITHUB_REPOSITORY_OWNER}:master" --jq .behind_by)
+          if [ "$behind" -gt 0 ]; then
+            echo "needs_sync=true" >> "$GITHUB_OUTPUT"
+            echo "Upstream has $behind new commits."
+          else
+            echo "Fork already contains the latest upstream commit."
+          fi
+
       - name: Checkout target repo
+        if: steps.check.outputs.needs_sync == 'true'
         uses: actions/checkout@v6
 
-      # Step 2: run the sync action
       - name: Sync upstream changes
+        if: steps.check.outputs.needs_sync == 'true'
         id: sync
         uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
         with:
@@ -35,5 +48,5 @@ jobs:
       - name: Sync check
         if: failure()
         run: |
-          echo "[Error] 由于上游仓库的 workflow 文件变更，导致 GitHub 自动暂停了本次自动更新，需要手动 Sync Fork 一次。"
+          echo "[Error] 上游检查或同步失败，请查看上面的日志。"
           exit 1
