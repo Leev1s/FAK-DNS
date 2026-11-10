@@ -9,24 +9,24 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v6
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
+    - name: Set up uv
+      uses: astral-sh/setup-uv@v7
       with:
-        python-version: 3.9
-    
-    - name: Install dependencies
-      run: pip3 install glob2
+        enable-cache: false
 
+    - name: Install Python
+      run: uv python install 3.13
+    
     - name: Convert Conf Files
       env:
         CN_DNS: ${{ vars.CN_DNS }}
         THE_DNS: ${{ vars.THE_DNS }}
-      run: python convert.py
+      run: uv run --no-project --python 3.13 convert.py
 
     - name: Create Artifacts
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: converted-files
         path: converted
