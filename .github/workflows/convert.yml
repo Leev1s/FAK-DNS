@@ -16,16 +16,19 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v6
 
-    - name: Set up Python
-      uses: actions/setup-python@v6
+    - name: Set up uv
+      uses: astral-sh/setup-uv@v7
       with:
-        python-version: '3.13'
+        enable-cache: false
+
+    - name: Install Python
+      run: uv python install 3.13
     
     - name: Convert Conf Files
       env:
         CN_DNS: ${{ vars.CN_DNS }}
         THE_DNS: ${{ vars.THE_DNS }}
-      run: python convert.py
+      run: uv run --no-project --python 3.13 convert.py
 
     - name: Check for changes
       run: |
