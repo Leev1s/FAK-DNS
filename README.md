@@ -1,98 +1,104 @@
-# FAK-DNS for AdGuard Home
+<div align="center">
 
-<p align="center">
-  <img src="https://s2.loli.net/2024/01/04/N4QkHzlaSCIDbrt.jpg">
-</p>
+# FAK-DNS
 
-<p align="center">
-  <b>AdGuard Home 中国特定配置，使用您最喜爱的 DNS 服务器</b><br>
-  提高国内域名解析速度，全力避免 DNS 污染
-</p>
+**给 AdGuard Home 用的中国域名 DNS 分流规则**
 
-<p align="center">
-  <a href="https://github.com/Leev1s/FAK-DNS/stargazers">
-    <img src="https://img.shields.io/github/stars/Leev1s/FAK-DNS?style=social" alt="Stars" />
-  </a>
-  <a href="https://github.com/Leev1s/FAK-DNS/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Leev1s/FAK-DNS?color=blue" alt="MIT License"/>
-  </a>
-  <a href="https://github.com/Leev1s/FAK-DNS/actions">
-    <img src="https://github.com/Leev1s/FAK-DNS/actions/workflows/convert.yml/badge.svg" alt="GitHub Actions Status"/>
-  </a>
-  <img src="https://img.shields.io/github/last-commit/Leev1s/FAK-DNS" alt="Last Commit" />
-</p>
+从上游域名列表生成可直接导入的上游 DNS 文件。命中列表的域名使用国内 DNS，其余域名使用你设置的默认 DNS。
 
-## 📌 主要特点
+[![规则生成](https://github.com/Leev1s/FAK-DNS/actions/workflows/convert.yml/badge.svg)](https://github.com/Leev1s/FAK-DNS/actions/workflows/convert.yml)
+[![上游同步](https://github.com/Leev1s/FAK-DNS/actions/workflows/sync.yml/badge.svg)](https://github.com/Leev1s/FAK-DNS/actions/workflows/sync.yml)
+[![Stars](https://img.shields.io/github/stars/Leev1s/FAK-DNS?style=flat)](https://github.com/Leev1s/FAK-DNS/stargazers)
+[![最近更新](https://img.shields.io/github/last-commit/Leev1s/FAK-DNS/master?label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0)](https://github.com/Leev1s/FAK-DNS/commits/master)
 
+[下载规则](https://raw.githubusercontent.com/Leev1s/FAK-DNS/master/converted/FAK-DNS.txt) · [自定义 DNS](#自定义-dns) · [本地组合示例](#本地组合示例adguard-home--mihomo)
 
-- 🧠 智能分流规则，**国内域名走中国 DNS，国外保持原样**
-- 🔄 自动同步上游规则，**集成 GitHub Actions 自动更新**
-- 📄 AdGuard Home 闪电⚡️导入
+</div>
 
+## 先了解它做什么
 
-主要文件位于 [`converted`](./converted) 文件夹中：
+FAK-DNS 基于 [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) 的域名列表，生成 [AdGuard Home 上游 DNS 文件](https://github.com/AdguardTeam/AdGuardHome/wiki/Configuration#loading-upstreams-from-file)。它只负责**选择 DNS 上游**：命中列表的域名使用 `CN_DNS`，其他域名使用 `THE_DNS`。默认配置分别使用阿里 DNS 和 Cloudflare DNS。
 
-| 文件名 | 描述 |
-|--------|------|
-| `FAK-DNS.txt` | 综合优化后的主规则文件（推荐使用） |
-| `accelerated-domains.china.conf.txt` | 针对中国大陆优化的常用域名 |
-| `google.china.conf.txt` | Google 中国服务域名加速（实验性） |
-| `apple.china.conf.txt` | Apple 服务加速（遇到问题可选择性关闭） |
+去广告需要在 AdGuard Home 中**另行启用 DNS 过滤规则**。FAK-DNS 不是广告过滤列表，也不根据访问者的 IP 所在地判断域名。
 
+| 文件 | 用途 |
+| --- | --- |
+| [`converted/FAK-DNS.txt`](./converted/FAK-DNS.txt) | 含默认上游及全部域名规则，通常下载这一份 |
+| [`converted/accelerated-domains.china.conf.txt`](./converted/accelerated-domains.china.conf.txt) | 中国域名规则 |
+| [`converted/apple.china.conf.txt`](./converted/apple.china.conf.txt) | Apple 相关域名规则 |
+| [`converted/google.china.conf.txt`](./converted/google.china.conf.txt) | Google 相关域名规则 |
 
-## ⚙️ 使用说明
+> Apple 和 Google 的规则已包含在主文件中；单独的文件便于按需查看和使用。上游规则自动同步，生成任务每天运行，也支持手动运行。
 
-本项目基于 [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) 自动同步规则，并通过 GitHub Actions 转换为 AdGuard Home 支持的格式。
+## 快速使用
 
-- 默认设置：
-  - 国内请求走 **阿里 DoH**
-  - 国外请求走 **Cloudflare DoH**
-  - 自动合并 Google / Apple / 中国域名加速规则
+1. [下载主规则文件](https://raw.githubusercontent.com/Leev1s/FAK-DNS/master/converted/FAK-DNS.txt)，保存到运行 AdGuard Home 的设备，例如 `/opt/AdGuardHome/FAK-DNS.txt`。
+2. 在 AdGuard Home 的 DNS 设置中，将该文件设为**上游 DNS 文件**。如需编辑 `AdGuardHome.yaml`，先停止服务，再设置：
 
-### 👉 **直接下载地址：**
+   ```yaml
+   dns:
+     upstream_dns_file: /opt/AdGuardHome/FAK-DNS.txt
+   ```
 
-<https://raw.githubusercontent.com/Leev1s/FAK-DNS/master/converted/FAK-DNS.txt>
+3. 启动 AdGuard Home，并按自己的需要在其过滤设置中添加、启用去广告规则。
 
-## 📥 配置 AdGuard Home
+设置了 `upstream_dns_file` 后，AdGuard Home 会使用文件中的上游设置，而不是配置中的 `upstream_dns` 列表。请确保文件中有可用的默认 DNS。[配置说明](https://github.com/AdguardTeam/AdGuardHome/wiki/Configuration#configuration-file)
 
-1. 下载生成的 `FAK-DNS.txt` 文件
-2. 放入 AdGuard Home 目录（一般为 `/opt/AdGuardHome/`）
-3. 修改 `AdGuardHome.yaml`，添加以下配置：
+## 自定义 DNS
 
-```yaml
-dns:
-  upstream_dns_file: /opt/AdGuardHome/FAK-DNS.txt
+想保留自己的下载地址，可以 fork 本仓库。进入 fork 的 **Settings → Secrets and variables → Actions → Variables**，创建两个仓库变量；**每行填写一个 DNS 地址**：
+
+| 变量 | 作用 | 示例 |
+| --- | --- | --- |
+| `CN_DNS` | 域名列表命中时使用 | `https://dns.alidns.com/dns-query` |
+| `THE_DNS` | 其他域名使用的默认上游 | `https://1.1.1.1/dns-query` |
+
+例如，`CN_DNS` 可填写：
+
+```text
+https://dns.alidns.com/dns-query
+tls://dns.alidns.com
 ```
-4. 重启 AdGuard Home
 
-## ✏️ 自定义配置
+`THE_DNS` 可填写：
 
-1. Fork 本仓库
-2. 在你的 fork 中打开 **Settings → Secrets and variables → Actions → Variables**，新建 `CN_DNS` 和 `THE_DNS`。两个变量都要填写，每行一个 DNS 地址（支持 DoH、DoT、DoQ 和 IP）：
+```text
+https://1.1.1.1/dns-query
+https://1.0.0.1/dns-query
+```
 
-   `CN_DNS`：匹配中国域名规则时使用，例如：
+两项都必须填写。支持 AdGuard Home 接受的普通 IP、DoH、DoT、DoQ 地址；`CN_DNS` 也兼容原先用空格分隔的写法。保存后到 **Actions → Convert Conf Files and Push to Repo → Run workflow** 手动生成一次。完成后，在**你自己的 fork** 的 `converted/FAK-DNS.txt` 下载规则；后续按计划自动更新。
 
-   ```text
-   https://dns.alidns.com/dns-query
-   tls://dns.alidns.com
+## 本地组合示例：AdGuard Home + mihomo
+
+适合两项服务运行在**同一台设备**的情况：AdGuard Home 接收设备的 DNS 请求并执行过滤；FAK-DNS 让列表内域名走国内 DNS；其他域名交给本地 mihomo DNS 的 fake-ip 模式处理。
+
+```text
+设备 → AdGuard Home（53 端口，过滤 + FAK-DNS 分流）
+                         ├─ 列表内域名 → CN_DNS
+                         └─ 其他域名 → mihomo DNS（127.0.0.1:1053，fake-ip）
+```
+
+1. 在你的 fork 中设置 `CN_DNS` 为国内 DNS；将 `THE_DNS` 设为 `127.0.0.1:1053`，然后手动运行生成任务。这个地址由 **AdGuard Home 所在设备**访问。
+2. AdGuard Home 使用你 fork 生成的 `FAK-DNS.txt`，并单独启用需要的 DNS 过滤规则。
+3. 在已有的 mihomo 配置中加入或调整 DNS 部分，例如：
+
+   ```yaml
+   dns:
+     enable: true
+     listen: 127.0.0.1:1053
+     enhanced-mode: fake-ip
+     fake-ip-range: 198.18.0.1/16
+     default-nameserver:
+       - 1.1.1.1
+     nameserver:
+       - https://1.1.1.1/dns-query
+     fake-ip-filter:
+       - '*.lan'
    ```
 
-   `THE_DNS`：其他域名使用的默认上游，例如：
+`nameserver` 请使用可独立访问的 DNS，**不要再指向 AdGuard Home**，否则会形成查询循环。只有转发给 mihomo 的域名会经过 fake-ip 处理；列表内域名直接使用 `CN_DNS`。不同设备部署时，把 `THE_DNS` 换成 mihomo DNS 的实际可达地址，并相应调整监听地址和访问控制。[mihomo DNS 配置说明](https://wiki.metacubex.one/config/dns/) · [AdGuard Home 上游文件说明](https://github.com/AdguardTeam/AdGuardHome/wiki/Configuration#loading-upstreams-from-file)
 
-   ```text
-   https://1.1.1.1/dns-query
-   https://1.0.0.1/dns-query
-   ```
+## 来源与许可
 
-3. 在 **Actions → Convert Conf Files and Push to Repo → Run workflow** 手动运行一次，等待完成后下载自己 fork 中的 `converted/FAK-DNS.txt`。以后每天会自动更新。现有用空格分隔的 `CN_DNS` 值也继续支持。
-
-## 🧾 License
-This project contains code under multiple licenses.
-
-- Original code from [upstream repo](https://github.com/felixonmars/dnsmasq-china-list) is licensed under the [WTFPL](./LICENSE-WTFPL).
-- All modifications and additions by Lev1s are licensed under the MIT License. See [LICENSE](./LICENSE).
-
-## 🌟 Star 一下？
-如果你觉得这个项目对你有用，请给我一个小小的 Star
-
-👉 <https://github.com/Leev1s/FAK-DNS>
+域名列表来自 [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)，遵循 [WTFPL](./LICENSE-WTFPL)；本项目的新增内容遵循 [MIT](./LICENSE)。
