@@ -1,4 +1,11 @@
-on: [push, pull_request]
+on:
+  push:
+    branches: [master]
+    paths-ignore:
+      - README.md
+  pull_request:
+    paths-ignore:
+      - README.md
 jobs:
   test:
     runs-on: ubuntu-latest
