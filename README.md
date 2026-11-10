@@ -68,8 +68,23 @@ dns:
 ## ✏️ 自定义配置
 
 1. Fork 本仓库
-2. 修改 settings/variables/actions Repository variables 中的 `CN_DNS` 与 `THE_DNS`，每行填写一个 DNS（DoH/DoT/QUIC/IP均可， `CN_DNS`填写您喜欢的国内DNS提供商，`THE_DNS`填写您信任的海外DNS提供商
-3. 通过 Github Actions，生成你专属的规则文件
+2. 在你的 fork 中打开 **Settings → Secrets and variables → Actions → Variables**，新建 `CN_DNS` 和 `THE_DNS`。两个变量都要填写，每行一个 DNS 地址（支持 DoH、DoT、DoQ 和 IP）：
+
+   `CN_DNS`：匹配中国域名规则时使用，例如：
+
+   ```text
+   https://dns.alidns.com/dns-query
+   tls://dns.alidns.com
+   ```
+
+   `THE_DNS`：其他域名使用的默认上游，例如：
+
+   ```text
+   https://1.1.1.1/dns-query
+   https://1.0.0.1/dns-query
+   ```
+
+3. 在 **Actions → Convert Conf Files and Push to Repo → Run workflow** 手动运行一次，等待完成后下载自己 fork 中的 `converted/FAK-DNS.txt`。以后每天会自动更新。现有用空格分隔的 `CN_DNS` 值也继续支持。
 
 ## 🧾 License
 This project contains code under multiple licenses.
