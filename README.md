@@ -1,6 +1,6 @@
 <div align="center">
 
-# FAK-DNS
+# FAK-DNS 🌐
 
 **给 AdGuard Home 用的中国域名 DNS 分流规则**
 
@@ -15,7 +15,7 @@
 
 </div>
 
-## 先了解它做什么
+## 🧭 先了解它做什么
 
 FAK-DNS 基于 [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) 的域名列表，生成 [AdGuard Home 上游 DNS 文件](https://github.com/AdguardTeam/AdGuardHome/wiki/Configuration#loading-upstreams-from-file)。它只负责**选择 DNS 上游**：命中列表的域名使用 `CN_DNS`，其他域名使用 `THE_DNS`。默认配置分别使用阿里 DNS 和 Cloudflare DNS。
 
@@ -28,9 +28,9 @@ FAK-DNS 基于 [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china
 | [`converted/apple.china.conf.txt`](./converted/apple.china.conf.txt) | Apple 相关域名规则 |
 | [`converted/google.china.conf.txt`](./converted/google.china.conf.txt) | Google 相关域名规则 |
 
-> Apple 和 Google 的规则已包含在主文件中；单独的文件便于按需查看和使用。上游规则自动同步，生成任务每天运行，也支持手动运行。
+> 💡 Apple 和 Google 的规则已包含在主文件中；单独的文件便于按需查看和使用。上游规则自动同步，生成任务每天运行，也支持手动运行。
 
-## 快速使用
+## 🚀 快速使用
 
 1. [下载主规则文件](https://raw.githubusercontent.com/Leev1s/FAK-DNS/master/converted/FAK-DNS.txt)，保存到运行 AdGuard Home 的设备，例如 `/opt/AdGuardHome/FAK-DNS.txt`。
 2. 在 AdGuard Home 的 DNS 设置中，将该文件设为**上游 DNS 文件**。如需编辑 `AdGuardHome.yaml`，先停止服务，再设置：
@@ -42,9 +42,9 @@ FAK-DNS 基于 [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china
 
 3. 启动 AdGuard Home，并按自己的需要在其过滤设置中添加、启用去广告规则。
 
-设置了 `upstream_dns_file` 后，AdGuard Home 会使用文件中的上游设置，而不是配置中的 `upstream_dns` 列表。请确保文件中有可用的默认 DNS。[配置说明](https://github.com/AdguardTeam/AdGuardHome/wiki/Configuration#configuration-file)
+> ⚠️ 设置了 `upstream_dns_file` 后，AdGuard Home 会使用文件中的上游设置，而不是配置中的 `upstream_dns` 列表。请确保文件中有可用的默认 DNS。[配置说明](https://github.com/AdguardTeam/AdGuardHome/wiki/Configuration#configuration-file)
 
-## 自定义 DNS
+## 🎛️ 自定义 DNS
 
 想保留自己的下载地址，可以 fork 本仓库。进入 fork 的 **Settings → Secrets and variables → Actions → Variables**，创建两个仓库变量；**每行填写一个 DNS 地址**：
 
@@ -67,9 +67,9 @@ https://1.1.1.1/dns-query
 https://1.0.0.1/dns-query
 ```
 
-两项都必须填写。支持 AdGuard Home 接受的普通 IP、DoH、DoT、DoQ 地址；`CN_DNS` 也兼容原先用空格分隔的写法。保存后到 **Actions → Convert Conf Files and Push to Repo → Run workflow** 手动生成一次。完成后，在**你自己的 fork** 的 `converted/FAK-DNS.txt` 下载规则；后续按计划自动更新。
+💡 两项都必须填写。支持 AdGuard Home 接受的普通 IP、DoH、DoT、DoQ 地址；`CN_DNS` 也兼容原先用空格分隔的写法。保存后到 **Actions → Convert Conf Files and Push to Repo → Run workflow** 手动生成一次。完成后，在**你自己的 fork** 的 `converted/FAK-DNS.txt` 下载规则；后续按计划自动更新。
 
-## 本地组合示例：AdGuard Home + mihomo
+## 🧩 本地组合示例：AdGuard Home + mihomo
 
 适合两项服务运行在**同一台设备**的情况：AdGuard Home 接收设备的 DNS 请求并执行过滤；FAK-DNS 让列表内域名走国内 DNS；其他域名交给本地 mihomo DNS 的 fake-ip 模式处理。
 
@@ -99,6 +99,6 @@ https://1.0.0.1/dns-query
 
 `nameserver` 请使用可独立访问的 DNS，**不要再指向 AdGuard Home**，否则会形成查询循环。只有转发给 mihomo 的域名会经过 fake-ip 处理；列表内域名直接使用 `CN_DNS`。不同设备部署时，把 `THE_DNS` 换成 mihomo DNS 的实际可达地址，并相应调整监听地址和访问控制。[mihomo DNS 配置说明](https://wiki.metacubex.one/config/dns/) · [AdGuard Home 上游文件说明](https://github.com/AdguardTeam/AdGuardHome/wiki/Configuration#loading-upstreams-from-file)
 
-## 来源与许可
+## 📜 来源与许可
 
 域名列表来自 [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)，遵循 [WTFPL](./LICENSE-WTFPL)；本项目的新增内容遵循 [MIT](./LICENSE)。
