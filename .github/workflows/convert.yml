@@ -1,5 +1,8 @@
 name: Convert Conf Files and Push to Repo
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 1 * * *" # every day
@@ -11,16 +14,13 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v6
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v6
       with:
-        python-version: 3.9
+        python-version: '3.13'
     
-    - name: Install dependencies
-      run: pip3 install glob2
-
     - name: Convert Conf Files
       env:
         CN_DNS: ${{ vars.CN_DNS }}
@@ -29,18 +29,15 @@ jobs:
 
     - name: Check for changes
       run: |
-        if ! git diff --quiet; then
+        git add converted/
+        if ! git diff --cached --quiet; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           current_time=$(date +'%Y-%m-%d %H:%M:%S')
-          git add .
           git commit -m "Convert conf files to txt - $current_time"
         else
           echo "No changes to commit."
         fi
 
     - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+      run: git push origin "HEAD:${GITHUB_REF_NAME}"
